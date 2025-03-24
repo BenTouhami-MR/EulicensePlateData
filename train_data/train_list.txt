@@ -1,575 +1,575 @@
-train/20200614_161550.jpg	1071-أ-72
-train/20200622_201635a.jpg	43681-أ-40
-train/20200618_095920a.jpg	59226-أ-13
-train/20200614_130433.jpg	5785-أ-7
-train/20200614_162220.jpg	ww
-train/20200617_185159a.jpg	-أ-11-31838
-train/20200614_130606(0).jpg	45367-أ-72
-train/20200614_162256.jpg	36446-أ-14
-train/20200614_131157.jpg	338-و-6
-train/20200614_190915a.jpg	99201-ب-8
-train/20200614_131904.jpg	609008ww
-train/20200614_131937(0).jpg	609008ww
-train/20200623_172905a.jpg	40911-و-6
-train/20200617_193213a.jpg	50767-أ-11
-train/20200614_130404.jpg	3286-د-8
-train/20200614_151714.jpg	5437-د-8
-train/20200614_161606.jpg	31067-و-6
-train/20200617_193826a.jpg	40970-أ-48
-train/20200614_162712a.jpg	99873-د-1
-train/20200618_113351a.jpg	1145-و-6
-train/20200614_131008.jpg	49149-ب-26
-train/20200616_174647a.jpg	23618-أ-1
-train/20200614_151955.jpg	98272-ه-6
-train/20200614_132000.jpg	46756-ب-1
-train/20200614_131204.jpg	30609-أ-6
-train/20200618_110422a.jpg	9162-و-6
-train/20200626_121305b.jpg	26524-أ-40
-train/20200617_185101a.jpg	38295-ب-6
-train/20200618_111927a.jpg	43183-ه-6
-train/20200622_202714a.jpg	39305-ب-8
-train/20200614_161713.jpg	79240-ب-8
-train/20200626_121830b.jpg	23451-و-6
-train/20200614_162202.jpg	5272-د-1
-train/20200614_152015.jpg	9491-د-8
-train/20200614_131939.jpg	609008ww
-train/20200614_161222.jpg	89112-ب-8
-train/20200614_152021(0).jpg	40278-و-6
-train/20200614_162215.jpg	55272-د-1
-train/20200626_121804b.jpg	6022211
-train/20200614_130305.jpg	552679ww
-train/20200623_172940a.jpg	74212-أ-7
-train/20200614_162036.jpg	79240-ب-8
-train/20200614_204507(0)a.jpg	35987-و-6
-train/20200614_131108(0).jpg	73393-ب-8
-train/20200618_100944a.jpg	5361-و-6
-train/20200620_193926a.jpg	58357-د-6
-train/20200614_162641a.jpg	-أ-10-96072
-train/20200618_111925a.jpg	43183-ه-6
-train/20200614_162337.jpg	557330ww
-train/20200620_194131a.jpg	83359-ه-6
-train/20200616_123434a.jpg	26045-ه-6
-train/20200614_131059(0).jpg	1589-أ-6
-train/20200614_161148.jpg	17570-ب-7
-train/20200626_122007a.jpg	23008-ه-1
-train/20200626_122203a.jpg	67879-ه-6
-train/20200614_130610.jpg	80976-ب-8
-train/20200614_151819.jpg	45765-و-6
-train/20200617_193551a.jpg	24808-أ-44
-train/20200626_121306b.jpg	26524-أ-40
-train/20200614_161523.jpg	1071
-train/20200614_131928.jpg	68254-ه-6
-train/20200614_161742.jpg	67159-أ-7
-train/20200614_130544(0).jpg	23588-ب-15
-train/20200626_122050a.jpg	93009-ب-8
-train/20200622_201818a.jpg	12157-ه-6
-train/20200614_161310.jpg	39669-أ-59
-train/20200618_095314a.jpg	53666-أ-1
-train/20200617_193710a.jpg	35341-أ-72
-train/20200626_121736b.jpg	56175-أ-7
-train/20200618_095109a.jpg	6016961
-train/20200626_121545b.jpg	23890-د-8
-train/20200617_185048a.jpg	15804-د-1
-train/20200626_121901a.jpg	5085
-train/20200617_193945a.jpg	50616-أ-11
-train/20200615_191118a.jpg	70733-ب-6
-train/20200614_151833.jpg	22706-د-8
-train/20200614_131017.jpg	37647-ب-8
-train/20200614_161359.jpg	46464-أ-7
-train/20200614_210122a.jpg	733085ww
-train/20200614_151739.jpg	66859-ب-8
-train/20200626_121804a.jpg	6022211
-train/20200614_204647a.jpg	73669-أ-33
-train/20200618_110038a.jpg	610741ww
-train/20200614_130313.jpg	599625ww
-train/20200614_130246.jpg	15741-ب-15
-train/20200615_191021(0)a.jpg	15181-د-8
-train/20200614_130655.jpg	94814-أ-8
-train/20200614_151732.jpg	40494-أ-50
-train/20200618_105012a.jpg	67383-ه-6
-train/20200614_151956.jpg	98272-ه-6
-train/20200614_161836.jpg	20482-د-8
-train/20200614_152025.jpg	67632-ه-6
-train/20200617_185129a.jpg	68628-و-6
-train/20200618_105838a.jpg	28768-و-6
-train/20200622_202130a.jpg	12157-ه-6
-train/20200618_105332a.jpg	87592-ه-6
-train/20200614_161128.jpg	15354-و-6
-train/20200617_193700a.jpg	60391-د-1
-train/20200626_121454b.jpg	73948-ه-6
-train/20200618_105423a.jpg	69266-و-6
-train/20200614_130406.jpg	3286-د-8
-train/20200615_191144a.jpg	4342-ب-72
-train/20200614_131108.jpg	73393-ب-8
-train/20200614_151704.jpg	26205-د-8
-train/20200614_161309.jpg	39669-أ-59
-train/20200614_151951.jpg	98272-ه-6
-train/20200626_122302b.jpg	49523-ه-6
-train/20200623_172906a.jpg	40911-و-6
-train/20200614_161122.jpg	72368-ب-8
-train/20200618_105234a.jpg	77174-ب-8
-train/20200618_111913a.jpg	183264
-train/20200614_190254a.jpg	58445-ه-1
-train/20200614_130423.jpg	92347-أ-7
-train/20200626_122114a.jpg	72564-ه-6
-train/20200614_131103.jpg	6731-أ-72
-train/20200618_105149a.jpg	24411-أ-72
-train/20200614_162255.jpg	36446-أ-14
-train/20200615_191120a.jpg	70733-ب-6
-train/20200618_095328a.jpg	11391-أ-48
-train/20200616_175503a.jpg	27166-أ-10
-train/20200622_203355a.jpg	12929-و-6
-train/20200614_161057.jpg	48300-ب-8
-train/20200626_122047a.jpg	93009-ب-8
-train/20200617_193250a.jpg	40070-أ-11
-train/20200614_131215.jpg	57626-ب-8
-train/20200614_131913.jpg	46245-ب-8
-train/20200614_161112.jpg	39700-أ-10
-train/20200614_161724(0).jpg	72267-ه-6
-train/20200614_204412a.jpg	35987-و-6
-train/20200617_193404a.jpg	3579-أ-14
-train/20200614_130236.jpg	51707-د-6
-train/20200614_130622.jpg	23784-ه-6
-train/20200614_210136a.jpg	580337ww
-train/20200620_194205a.jpg	78308-ه-6
-train/20200614_151756.jpg	93126-ه-6
-train/20200614_162222.jpg	607202ww
-train/20200614_130555.jpg	79384-ب-8
-train/20200616_175332a.jpg	62724-أ-55
-train/20200614_161747(0).jpg	85705-ب-6
-train/20200626_121803a.jpg	6022211
-train/20200626_121737a.jpg	56175-أ-7
-train/20200614_130436.jpg	63337-ه-6
-train/20200614_130315.jpg	599625ww
-train/20200618_111025a.jpg	94389-ه-6
-train/20200614_130647.jpg	92347-أ-7
-train/20200618_110315a.jpg	88811-ه-6
-train/20200614_131211.jpg	82247-ب-8
-train/20200614_130606.jpg	45367-أ-72
-train/20200614_130603.jpg	49133-ه-6
-train/20200614_161253.jpg	77838-د-6
-train/20200614_130511.jpg	28364-ب-15
-train/20200614_130237.jpg	51707-د-6
-train/20200614_204631a.jpg	9777-و-1
-train/20200614_151657.jpg	17666-د-8
-train/20200614_151818.jpg	45765-و-6
-train/20200616_174645a.jpg	23618-أ-1
-train/20200614_152014.jpg	9491-د-8
-train/20200614_161826.jpg	59017-أ-40
-train/20200614_131003.jpg	87004-ب-8
-train/20200618_095443a.jpg	4603-أ-29
-train/20200623_172941a.jpg	74212-أ-7
-train/20200614_130630.jpg	63337-ه-6
-train/20200614_131204(0).jpg	30609-أ-6
-train/20200614_205338a.jpg	11097-د-1
-train/20200626_121737b.jpg	56175-أ-7
-train/20200618_095714a.jpg	99308-أ-72
-train/20200617_185011a.jpg	78692-د-6
-train/20200617_193605a.jpg	587943ww
-train/20200614_162155.jpg	ww
-train/20200618_095739a.jpg	23911-أ-68
-train/20200614_131002.jpg	87004-ب-8
-train/20200622_201907a.jpg	12256-ه-6
-train/20200614_161859.jpg	61689-ه-6
-train/20200614_131102.jpg	6731-أ-72
-train/20200614_130539.jpg	65936-أ-50
-train/20200626_121744b.jpg	65437-ه-6
-train/20200614_131222.jpg	3346-د-8
-train/20200614_151637.jpg	9491-د-8
-train/20200617_193314a.jpg	585060ww
-train/20200617_193849a.jpg	90225-د-1
-train/20200626_122114b.jpg	72564-ه-6
-train/20200614_131042.jpg	56242-أ-26
-train/20200614_130529.jpg	26016-ب-15
-train/20200614_151718.jpg	74100-ه-6
-train/20200626_121235b.jpg	60361-د-6
-train/20200620_194127___ADD_1a.jpg	98428-ه-6
-train/20200614_130326.jpg	52671-أ-11
-train/20200623_173314a.jpg	85795-ه-6
-train/20200618_110443a.jpg	9015-د-8
-train/20200618_105152a.jpg	24411-أ-72
-train/20200626_121640a.jpg	35690-ه-6
-train/20200618_103842a.jpg	187620
-train/20200614_204412(0)a.jpg	35987-و-6
-train/20200614_162505a.jpg	27025-د-6
-train/20200614_130559.jpg	16233-د-8
-train/20200614_161858.jpg	61689-ه-6
-train/20200614_130611.jpg	80976-ب-8
-train/20200618_100738a.jpg	618849ww
-train/20200626_121446b.jpg	56256-و-6
-train/20200614_161138.jpg	15354-و-6
-train/20200618_105622a.jpg	1357-و-6
-train/20200626_121215b.jpg	96234-أ-15
-train/20200614_130405.jpg	3286-د-8
-train/20200618_105836a.jpg	28768-و-6
-train/20200614_162701a.jpg	66237-ه-6
-train/20200614_161601.jpg	573470ww
-train/20200614_130517.jpg	15077-و-6
-train/20200620_110604a.jpg	48300-ب-8
-train/20200618_095659a.jpg	24256-أ-68
-train/20200626_121544b.jpg	23890-د-8
-train/20200617_185326a.jpg	47106-ب-6
-train/20200617_184900a.jpg	55448-ه-6
-train/20200614_161355.jpg	26008-أ-2
-train/20200618_100741a.jpg	618849ww
-train/20200617_184929a.jpg	44395-أ-11
-train/20200620_194504a.jpg	26724-و-6
-train/20200614_130443.jpg	23784-ه-6
-train/20200614_151855(0).jpg	56362-أ-7
-train/20200618_110302a.jpg	21034-د-8
-train/20200614_131118.jpg	10483-أ-11
-train/20200614_162508a.jpg	27025-د-8
-train/20200616_175447a.jpg	48032-ب-8
-train/20200614_161522.jpg	1071-أ-72
-train/20200614_162026.jpg	72267-ه-6
-train/20200614_131130.jpg	49466-د-1
-train/20200614_130621.jpg	23784-ه-6
-train/20200614_131013.jpg	75020-د-6
-train/20200614_151924.jpg	84641-أ-7
-train/20200614_151735.jpg	40494-أ-50
-train/20200614_131947.jpg	82141-د-6
-train/20200615_191100a.jpg	52570-و-6
-train/20200614_161053.jpg	20849-د-8
-train/20200614_131216.jpg	57626-ب-8
-train/20200614_130433(0).jpg	5785-أ-7
-train/20200626_122007(0)a.jpg	23008-ه-1
-train/20200614_130500.jpg	45367-أ-72
-train/20200614_151951___ADD_1.jpg	25528
-train/20200623_172952a.jpg	52570-و-6
-train/20200614_161954.jpg	28800-ب-8
-train/20200614_152008.jpg	21304-د-8
-train/20200618_103839a.jpg	026781
-train/20200614_131158.jpg	338-و-6
-train/20200618_095514a.jpg	12447-د-8
-train/20200614_162338.jpg	557330ww
-train/20200614_130500(0).jpg	45367-أ-72
-train/20200614_162501a.jpg	63452-أ-13
-train/20200618_095932a.jpg	60070-ب-8
-train/20200617_193517___ADD_1___ADD_2a.jpg	51846-و-6
-train/20200614_162521a.jpg	71125-و-6
-train/20200618_105137a.jpg	2840-أ-6
-train/20200614_130245.jpg	15741-ب-15
-train/20200617_193253a.jpg	40070-أ-11
-train/20200614_161305.jpg	41892-ه-6
-train/20200614_151904.jpg	83013-ه-1
-train/20200618_110221a.jpg	52555-د-1
-train/20200614_132001.jpg	46756-ب-1
-train/20200614_161505.jpg	31067-و-6
-train/20200614_130626.jpg	599626ww
-train/20200614_161045.jpg	34002-ه-6
-train/20200614_130303.jpg	87704-ه-6
-train/20200614_161747.jpg	85705-ب-6
-train/20200626_122205b.jpg	67879-ه-6
-train/20200618_105409a.jpg	61768-د-6
-train/20200614_130349.jpg	558-أ-1
-train/20200614_130637.jpg	5785-أ-7
-train/20200617_185041a.jpg	14185-أ-37
-train/20200614_205231a.jpg	35269-و-6
-train/20200617_193237a.jpg	97132-أ-40
-train/20200614_131221.jpg	3346-د-8
-train/20200626_121736a.jpg	56175-أ-7
-train/20200617_185301a.jpg	87000-أ-1
-train/20200614_161041.jpg	82021-د-1
-train/20200620_194538a.jpg	10474-أ-7
-train/20200614_161102.jpg	16961-أ-5
-train/20200622_202024a.jpg	10001-أ-13
-train/20200626_121313b.jpg	27069-أ-10
-train/20200614_204751a.jpg	5283-د-6
-train/20200618_105523a.jpg	80209-أ-7
-train/20200617_185151a.jpg	31838-أ-11
-train/20200618_095520a.jpg	45278-أ-10
-train/20200614_161545.jpg	77674-ب-8
-train/20200626_122121b.jpg	6012068
-train/20200614_130656.jpg	57902-أ-55
-train/20200614_162056.jpg	682-د-8
-train/20200614_131926.jpg	68254-ه-6
-train/20200614_131153.jpg	50123-أ-20
-train/20200614_161724.jpg	72267-ه-6
-train/20200618_095719a.jpg	70424-د-6
-train/20200618_101006a.jpg	93176-أ-72
-train/20200626_121639a.jpg	35690-ه-6
-train/20200620_194510a.jpg	52174-ه-6
-train/20200614_131924.jpg	68254-ه-6
-train/20200617_193312a.jpg	585060ww
-train/20200614_161932.jpg	53956-ب-6
-train/20200617_193529a.jpg	534504ww
-train/20200614_151741.jpg	66859-ب-8
-train/20200626_122122a.jpg	6012068
-train/20200618_110613a.jpg	6269-أ-59
-train/20200614_151905.jpg	83013-ه-1
-train/20200614_204402a.jpg	35987-و-6
-train/20200626_121640b.jpg	35690-ه-6
-train/20200626_121639b.jpg	35690-ه-6
-train/20200615_191056(0)a.jpg	58331-أ-72
-train/20200614_204634a.jpg	9777-و-1
-train/20200614_161713(0).jpg	79240-ب-8
-train/20200614_130647(0).jpg	92347-أ-7
-train/20200614_161444.jpg	84794-ه-6
-train/20200616_175457a.jpg	7016023
-train/20200614_205448a.jpg	8278-ب-72
-train/20200614_151638.jpg	9491-د-8
-train/20200617_184917a.jpg	64610-ه-6
-train/20200617_193504___ADD_1___ADD_2a.jpg	19613-ه-5
-train/20200614_162552a.jpg	58958-ب-8
-train/20200618_095330a.jpg	11391-أ-48
-train/20200614_152021.jpg	40278-و-6
-train/20200614_161537.jpg	1810-د-8
-train/20200618_105304a.jpg	74794-ه-6
-train/20200614_190921a.jpg	30028-و-6
-train/20200614_131059.jpg	1589-أ-6
-train/20200614_161111.jpg	39700-أ-10
-train/20200616_123632a.jpg	8013353
-train/20200614_131141.jpg	60257-و-6
-train/20200618_110043___ADD_1a.jpg	92924-ب-6
-train/20200614_130559(0).jpg	16233-د-8
-train/20200614_131937.jpg	609008ww
-train/20200617_193453a.jpg	8030130
-train/20200614_162506a.jpg	27025-د-8
-train/20200626_121816b.jpg	597401ww
-train/20200618_095107a.jpg	6016961
-train/20200614_205302a.jpg	6264-ه-6
-train/20200618_095611a.jpg	61274-أ-72
-train/20200614_161126.jpg	15354
-train/20200614_204830a.jpg	21519-د-6
-train/20200617_193504___ADD_1a.jpg	7-أ-
-train/20200626_122007b.jpg	23008-ه-1
-train/20200626_121237b.jpg	60361-د-6
-train/20200614_161553.jpg	70426-ب-8
-train/20200618_094809a.jpg	48361-أ-14
-train/20200617_194144a.jpg	37761-أ-11
-train/20200626_122122b.jpg	6012068
-train/20200614_151855.jpg	56362-أ-7
-train/20200622_202111a.jpg	8021237
-train/20200616_123633a.jpg	8013353
-train/20200614_130555(0).jpg	79384-ب-8
-train/20200626_121743a.jpg	65437-ه-6
-train/20200614_130944.jpg	32040-أ-56
-train/20200614_130931.jpg	75112-ب-8
-train/20200617_193603a.jpg	587943ww
-train/20200617_193722a.jpg	-أ-11-27386
-train/20200614_161302.jpg	41892-ه-6
-train/20200614_162036(0).jpg	79240-ب-8
-train/20200615_191119a.jpg	70733-ب-6
-train/20200617_185318a.jpg	24710-أ-33
-train/20200614_161704.jpg	76195-و-6
-train/20200617_184855a.jpg	55448-ه-6
-train/20200616_174655a.jpg	9140-د-8
-train/20200620_194457a.jpg	38045-ب-8
-train/20200614_151648.jpg	557330ww
-train/20200620_110606a.jpg	48300-ب-8
-train/20200614_131142.jpg	60257-و-6
-train/20200622_202036a.jpg	52610-و-6
-train/20200614_130452.jpg	80976-ب-8
-train/20200618_104112a.jpg	6510-أ-58
-train/20200614_162449a.jpg	84355-ب-8
-train/20200614_162450a.jpg	84355-ب-8
-train/20200614_131122.jpg	33820-أ-14
-train/20200620_194127a.jpg	83359-ه-6
-train/20200614_131211(0).jpg	82247-ب-8
-train/20200617_185427a.jpg	37145-أ-11
-train/20200620_110422a.jpg	9893-ه-1
-train/20200618_104110a.jpg	6510-أ-58
-train/20200617_193806a.jpg	10013-أ-57
-train/20200614_161953.jpg	28800-ب-8
-train/20200614_131029.jpg	75112-ب-8
-train/20200620_110526a.jpg	13832-ب-7
-train/20200626_121205b.jpg	30724-أ-6
-train/20200614_190927(0)a.jpg	91815-ب-6
-train/20200614_161106.jpg	49606-أ-72
-train/20200617_185117a.jpg	23131-أ-11
-train/20200618_094738a.jpg	31766-و-6
-train/20200617_184938a.jpg	54994-أ-7
-train/20200614_162643a.jpg	-أ-10-27069
-train/20200617_194214a.jpg	-ب-26-45498
-train/20200614_151910.jpg	95853-ه-6
-train/20200618_094634a.jpg	914-و-1
-train/20200614_151740.jpg	66859-ب-8
-train/20200618_095628a.jpg	3594-د-8
-train/20200618_095024a.jpg	22421-د-6
-train/20200614_161047.jpg	34002-ه-6
-train/20200614_152027.jpg	67632-ه-6
-train/20200618_105312a.jpg	34514-ب-6
-train/20200618_111917a.jpg	183264
-train/20200626_122304a.jpg	49523-ه-6
-train/20200618_095645a.jpg	15853-و-6
-train/20200614_130439.jpg	599626ww
-train/20200614_161843(0).jpg	123-و-8
-train/20200614_161932___ADD_1.jpg	41666-أ-72
-train/20200614_151847.jpg	90715-ب-8
-train/20200614_162520a.jpg	71125-و-6
-train/20200617_193504a.jpg	8030130
-train/20200614_162156.jpg	607202ww
-train/20200626_121520b.jpg	56142-ب-8
-train/20200614_131111.jpg	19849-أ-72
-train/20200622_201620a.jpg	31709-أ-40
-train/20200614_161638.jpg	35896-أ-8
-train/20200620_194708a.jpg	9101-أ-55
-train/20200615_191145a.jpg	4342-ب-72
-train/20200614_130954.jpg	30666-ب-6
-train/20200617_193453___ADD_1___ADD_2a.jpg	40877-أ-11
-train/20200614_161359(0).jpg	46464-أ-7
-train/20200614_204835a.jpg	8110-د-8
-train/20200615_191047a.jpg	25303-ب-8
-train/20200614_151856.jpg	56-أ-7
-train/20200618_105319a.jpg	22884-د-8
-train/20200614_131914.jpg	46245-ب-8
-train/20200614_131915.jpg	46245-ب-8
-train/20200617_193624a.jpg	1850-أ-7
-train/20200626_121314b.jpg	27069-أ-10
-train/20200622_202923a.jpg	6132-د-8
-train/20200614_161354.jpg	26008-أ-2
-train/20200626_121519b.jpg	56142-ب-8
-train/20200617_185111a.jpg	54671-أ-13
-train/20200620_194725a.jpg	18530-أ-6
-train/20200614_131123.jpg	33820-أ-14
-train/20200614_151846.jpg	90715-ب-8
-train/20200614_161640.jpg	35896-أ-8
-train/20200614_204737a.jpg	34623-و-6
-train/20200626_121557a.jpg	33290-أ-56
-train/20200622_202950a.jpg	87769-أ-6
-train/20200626_121809a.jpg	597401ww
-train/20200614_131013(0).jpg	75020-د-6
-train/20200614_131053.jpg	27434-أ-61
-train/20200626_122203b.jpg	67879-ه-6
-train/20200617_194018a.jpg	1511-و-6
-train/20200614_161404.jpg	78995-أ-72
-train/20200614_161527.jpg	77674-ب-8
-train/20200626_121809b.jpg	597401ww
-train/20200614_162022.jpg	59582-و-6
-train/20200620_110615a.jpg	52325-ب-8
-train/20200614_131206.jpg	30609-أ-6
-train/20200614_151646.jpg	557330ww
-train/20200618_110228a.jpg	73969-ه-6
-train/20200614_151905(0).jpg	83013-ه-1
-train/20200626_121803b.jpg	6022211
-train/20200614_161828.jpg	59017-أ-40
-train/20200626_122302a.jpg	49523-ه-6
-train/20200614_161107.jpg	49606-أ-72
-train/20200615_191250a.jpg	55474-أ-48
-train/20200618_110043a.jpg	610741ww
-train/20200614_131144.jpg	31632-د-6
-train/20200614_161630.jpg	16480-ب-6
-train/20200614_161722.jpg	89258-ه-6
-train/20200614_161526.jpg	77674-ب-8
-train/20200617_185404a.jpg	47347-أ-11
-train/20200614_204846a.jpg	70733-ب-6
-train/20200614_130306.jpg	552679ww
-train/20200614_131226.jpg	16640-د-1
-train/20200614_205246a.jpg	27815-و-6
-train/20200626_122050b.jpg	93009-ب-8
-train/20200614_162223.jpg	607202ww
-train/20200617_193453___ADD_1a.jpg	19413-ه-6
-train/20200614_131921.jpg	68254-ه-6
-train/20200614_162027.jpg	72267-ه-6
-train/20200614_131119.jpg	10483-أ-11
-train/20200617_193758a.jpg	91726-ه-6
-train/20200614_130453.jpg	80976-ب-8
-train/20200617_185223a.jpg	16038-أ-11
-train/20200614_131905.jpg	609008ww
-train/20200614_161504.jpg	31067-و-6
-train/20200617_185356a.jpg	22837-ه-6
-train/20200614_161856.jpg	61689-ه-6
-train/20200626_121545a.jpg	23890-د-8
-train/20200626_122205a.jpg	67879-ه-6
-train/20200622_201703a.jpg	43681-أ-40
-train/20200614_130517(0).jpg	15077-و-6
-train/20200614_162056(0).jpg	682-د-8
-train/20200626_122007(0)b.jpg	23008-ه-1
-train/20200614_130537.jpg	65936-أ-50
-train/20200614_205300a.jpg	6264-ه-6
-train/20200614_151925.jpg	84641-أ-7
-train/20200614_130529(0).jpg	26016-ب-15
-train/20200614_161347.jpg	67566-ه-6
-train/20200626_121830a.jpg	23451-و-6
-train/20200614_161925.jpg	-أ-40-59017
-train/20200618_110105a.jpg	73905-ه-6
-train/20200617_185056a.jpg	91349-ه-6
-train/20200614_162023.jpg	59582-و-6
-train/20200618_105411a.jpg	61768-د-6
-train/20200618_113332a.jpg	54715-و-6
-train/20200618_110105___ADD_1a.jpg	17593-د-8
-train/20200614_130604.jpg	49133-ه-6
-train/20200617_185000a.jpg	668-أ-57
-train/20200614_161602.jpg	573470ww
-train/20200614_130544.jpg	23588-ب-15
-train/20200618_110038___ADD_1a.jpg	92924-ب-6
-train/20200614_130444.jpg	23784-ه-6
-train/20200615_191105a.jpg	21519-د-6
-train/20200626_121744a.jpg	65437-ه-6
-train/20200614_130348.jpg	558-أ-1
-train/20200618_110420a.jpg	9162-و-6
-train/20200618_105841a.jpg	28768-و-6
-train/20200626_121557b.jpg	33290-أ-56
-train/20200614_161924.jpg	-أ-40-59017
-train/20200614_131041.jpg	56242-أ-26
-train/20200614_161557.jpg	28209-أ-61
-train/20200615_191021a.jpg	15181-د-8
-train/20200614_161511.jpg	573470ww
-train/20200614_161051.jpg	34250-د-8
-train/20200618_095639a.jpg	30051-أ-9
-train/20200622_202034a.jpg	52610-و-6
-train/20200614_151935.jpg	74100-ه-6
-train/20200626_122121a.jpg	6012068
-train/20200620_110622a.jpg	609008ww
-train/20200617_193400a.jpg	16522-أ-7
-train/20200614_131022.jpg	227709ش
-train/20200626_122110a.jpg	1661-و-6
-train/20200614_151755.jpg	93126-ه-6
-train/20200618_105245a.jpg	72304-ه-1
-train/20200617_193517___ADD_1a.jpg	73190-و-6
-train/20200614_161311.jpg	39669-أ-59
-train/20200614_130414.jpg	94814-أ-8
-train/20200617_194208a.jpg	45881-أ-14
-train/20200614_161650.jpg	882-د-8
-train/20200614_161347(0).jpg	67566-ه-6
-train/20200622_201605a.jpg	36229-أ-40
-train/20200618_110134a.jpg	55902-ه-6
-train/20200614_130423(0).jpg	92347-أ-7
-train/20200616_123437a.jpg	26045-ه-6
-train/20200618_105356a.jpg	68249-و-6
-train/20200622_201658a.jpg	43681-أ-40
-train/20200618_105858a.jpg	2218-ه-6
-train/20200614_130314.jpg	599625ww
-train/20200618_095929a.jpg	60070-ب-8
-train/20200618_095021a.jpg	22421-د-6
-train/20200614_130942.jpg	32040-أ-56
-train/20200614_162707a.jpg	95044-د-1
-train/20200618_105859a.jpg	2218-ه-6
-train/20200614_161443.jpg	84794-ه-6
-train/20200618_110526a.jpg	37374-أ-13
-train/20200626_121743b.jpg	65437-ه-6
-train/20200614_161518.jpg	70426-ب-8
-train/20200614_161648.jpg	682-د-8
-train/20200614_151839.jpg	45765-و-6
-train/20200614_161514.jpg	28209-أ-61
-train/20200614_130942(0).jpg	32040-أ-56
-train/20200614_205457a.jpg	51799-أ-56
-train/20200614_161054.jpg	20849-د-8
-train/20200615_191056a.jpg	58331-أ-72
-train/20200617_194005a.jpg	84916-ه-6
-train/20200622_203351a.jpg	12929-و-6
-train/20200614_190927a.jpg	91815-ب-6
-train/20200617_193517a.jpg	8030130
-train/20200614_190922a.jpg	30028-و-6
-train/20200614_161136.jpg	15354-و-6
-train/20200614_190916a.jpg	99201-ب-8
-train/20200617_184948a.jpg	38316-أ-11
-train/20200614_161827.jpg	59017-أ-40
-train/20200626_121816a.jpg	597401ww
-train/20200618_095845a.jpg	57489-ب-6
-train/20200618_094711a.jpg	76138-أ-72
-train/20200614_161723.jpg	89258-ه-6
-train/20200614_131024.jpg	227709ش
-train/20200614_130440.jpg	599626ww
-train/20200614_130419.jpg	16645-ب-6
-train/20200614_161736.jpg	40663-ه-6
-train/20200614_161149.jpg	17570-ب-7
-train/20200618_105625a.jpg	1357-و-6
-train/20200614_130420.jpg	16645-ب-6
-train/20200626_122110b.jpg	1661-و-6
-train/20200622_201602a.jpg	36229-أ-40
-train/20200617_193852a.jpg	90225-د-1
-train/20200614_130327.jpg	52671-أ-11
-train/20200614_204657a.jpg	87904-ه-6
-train/20200626_122047b.jpg	93009-ب-8
-train/20200614_162141.jpg	607202ww
+{"image_path": "train/20200618_095443a.jpg", "label": [{"points": [[47, 26], [563, 26], [563, 149], [47, 149]], "transcription": "4603a29", "ignore": false}]}
+{"image_path": "train/20200622_202923a.jpg", "label": [{"points": [[52, 53], [1013, 53], [1013, 325], [52, 325]], "transcription": "6132d8", "ignore": false}]}
+{"image_path": "train/20200622_202036a.jpg", "label": [{"points": [[38, 14], [984, 14], [984, 205], [38, 205]], "transcription": "52610waw6", "ignore": false}]}
+{"image_path": "train/20200614_161932___ADD_1.jpg", "label": [{"points": [[1, 10], [59, 10], [59, 28], [1, 28]], "transcription": "41666a72", "ignore": false}]}
+{"image_path": "train/20200626_121901a.jpg", "label": [{"points": [[59, 24], [269, 24], [269, 113], [59, 113]], "transcription": "5085", "ignore": false}]}
+{"image_path": "train/20200614_210122a.jpg", "label": [{"points": [[11, 24], [331, 24], [331, 89], [11, 89]], "transcription": "580337ww", "ignore": false}]}
+{"image_path": "train/20200614_161041.jpg", "label": [{"points": [[94, 13], [1156, 13], [1156, 256], [94, 256]], "transcription": "82021d1", "ignore": false}]}
+{"image_path": "train/20200616_175332a.jpg", "label": [{"points": [[39, 20], [461, 20], [461, 108], [39, 108]], "transcription": "62724a55", "ignore": false}]}
+{"image_path": "train/20200618_100944a.jpg", "label": [{"points": [[23, 13], [675, 13], [675, 163], [23, 163]], "transcription": "666666", "ignore": false}]}
+{"image_path": "train/20200617_185151a.jpg", "label": [{"points": [[51, 32], [1015, 32], [1015, 265], [51, 265]], "transcription": "31838a11", "ignore": false}]}
+{"image_path": "train/20200614_152015.jpg", "label": [{"points": [[66, 64], [804, 64], [804, 487], [66, 487]], "transcription": "9491d8", "ignore": false}]}
+{"image_path": "train/20200616_175503a.jpg", "label": [{"points": [[31, 24], [832, 24], [832, 226], [31, 226]], "transcription": "27166a10", "ignore": false}]}
+{"image_path": "train/20200622_201703a.jpg", "label": [{"points": [[9, 2], [502, 2], [502, 103], [9, 103]], "transcription": "43681a40", "ignore": false}]}
+{"image_path": "train/20200626_122304a.jpg", "label": [{"points": [[16, 25], [706, 25], [706, 231], [16, 231]], "transcription": "49523h6", "ignore": false}]}
+{"image_path": "train/20200615_191056a.jpg", "label": [{"points": [[22, 22], [495, 22], [495, 132], [22, 132]], "transcription": "58331a72", "ignore": false}]}
+{"image_path": "train/20200618_105332a.jpg", "label": [{"points": [[50, 35], [924, 35], [924, 195], [50, 195]], "transcription": "87592h6", "ignore": false}]}
+{"image_path": "train/20200614_151638.jpg", "label": [{"points": [[112, 13], [1258, 13], [1258, 235], [112, 235]], "transcription": "9491d8", "ignore": false}]}
+{"image_path": "train/20200614_161504.jpg", "label": [{"points": [[9, 9], [106, 9], [106, 35], [9, 35]], "transcription": "31067waw6", "ignore": false}]}
+{"image_path": "train/20200626_121830b.jpg", "label": [{"points": [[82, 49], [879, 49], [879, 229], [82, 229]], "transcription": "23451waw6", "ignore": false}]}
+{"image_path": "train/20200614_151819.jpg", "label": [{"points": [[65, 42], [563, 42], [563, 174], [65, 174]], "transcription": "45765waw6", "ignore": false}]}
+{"image_path": "train/20200618_105523a.jpg", "label": [{"points": [[60, 32], [777, 32], [777, 176], [60, 176]], "transcription": "80209a7", "ignore": false}]}
+{"image_path": "train/20200614_151856.jpg", "label": [{"points": [[50, 73], [1071, 73], [1071, 339], [50, 339]], "transcription": "56a7", "ignore": false}]}
+{"image_path": "train/20200614_190254a.jpg", "label": [{"points": [[26, 33], [489, 33], [489, 143], [26, 143]], "transcription": "58445h1", "ignore": false}]}
+{"image_path": "train/20200618_105625a.jpg", "label": [{"points": [[282, 26], [1499, 26], [1499, 316], [282, 316]], "transcription": "1357waw6", "ignore": false}]}
+{"image_path": "train/20200622_201620a.jpg", "label": [{"points": [[27, 24], [370, 24], [370, 126], [27, 126]], "transcription": "31709a40", "ignore": false}]}
+{"image_path": "train/20200618_095739a.jpg", "label": [{"points": [[75, 24], [1161, 24], [1161, 189], [75, 189]], "transcription": "23911a68", "ignore": false}]}
+{"image_path": "train/20200617_185326a.jpg", "label": [{"points": [[57, 0], [932, 0], [932, 241], [57, 241]], "transcription": "47106b6", "ignore": false}]}
+{"image_path": "train/20200614_162552a.jpg", "label": [{"points": [[6, 8], [63, 8], [63, 40], [6, 40]], "transcription": "58958b8", "ignore": false}]}
+{"image_path": "train/20200618_105858a.jpg", "label": [{"points": [[64, 11], [748, 11], [748, 185], [64, 185]], "transcription": "2218h6", "ignore": false}]}
+{"image_path": "train/20200614_162056(0).jpg", "label": [{"points": [[13, 9], [148, 9], [148, 40], [13, 40]], "transcription": "682d8", "ignore": false}]}
+{"image_path": "train/20200614_204412(0)a.jpg", "label": [{"points": [[25, 18], [593, 18], [593, 171], [25, 171]], "transcription": "6waw78953", "ignore": false}]}
+{"image_path": "train/20200620_110615a.jpg", "label": [{"points": [[20, 10], [319, 10], [319, 77], [20, 77]], "transcription": "52325b8", "ignore": false}]}
+{"image_path": "train/20200614_131158.jpg", "label": [{"points": [[30, 15], [144, 15], [144, 54], [30, 54]], "transcription": "338waw6", "ignore": false}]}
+{"image_path": "train/20200614_162027.jpg", "label": [{"points": [[12, 10], [170, 10], [170, 56], [12, 56]], "transcription": "72267h6", "ignore": false}]}
+{"image_path": "train/20200614_161054.jpg", "label": [{"points": [[27, 25], [402, 25], [402, 169], [27, 169]], "transcription": "20849d8", "ignore": false}]}
+{"image_path": "train/20200617_193400a.jpg", "label": [{"points": [[209, 32], [624, 32], [624, 195], [209, 195]], "transcription": "2a7", "ignore": false}]}
+{"image_path": "train/20200626_121640a.jpg", "label": [{"points": [[62, 18], [755, 18], [755, 152], [62, 152]], "transcription": "35690h6", "ignore": false}]}
+{"image_path": "train/20200618_110221a.jpg", "label": [{"points": [[62, 34], [1242, 34], [1242, 340], [62, 340]], "transcription": "52555d1", "ignore": false}]}
+{"image_path": "train/20200617_193710a.jpg", "label": [{"points": [[77, 8], [1219, 8], [1219, 203], [77, 203]], "transcription": "35341a72", "ignore": false}]}
+{"image_path": "train/20200614_130236.jpg", "label": [{"points": [[13, 8], [84, 8], [84, 25], [13, 25]], "transcription": "51707d6", "ignore": false}]}
+{"image_path": "train/20200614_161827.jpg", "label": [{"points": [[11, 12], [91, 12], [91, 28], [11, 28]], "transcription": "59017a40", "ignore": false}]}
+{"image_path": "train/20200618_110105a.jpg", "label": [{"points": [[27, 14], [422, 14], [422, 134], [27, 134]], "transcription": "73905h6", "ignore": false}]}
+{"image_path": "train/20200614_131204.jpg", "label": [{"points": [[8, 6], [147, 6], [147, 52], [8, 52]], "transcription": "30609a6", "ignore": false}]}
+{"image_path": "train/20200614_131939.jpg", "label": [{"points": [[52, 60], [900, 60], [900, 253], [52, 253]], "transcription": "609008ww", "ignore": false}]}
+{"image_path": "train/20200614_131216.jpg", "label": [{"points": [[22, 28], [429, 28], [429, 251], [22, 251]], "transcription": "57626b8", "ignore": false}]}
+{"image_path": "train/20200622_202024a.jpg", "label": [{"points": [[37, 24], [474, 24], [474, 226], [37, 226]], "transcription": "11a13", "ignore": false}]}
+{"image_path": "train/20200614_161305.jpg", "label": [{"points": [[20, 3], [235, 3], [235, 42], [20, 42]], "transcription": "41892h6", "ignore": false}]}
+{"image_path": "train/20200614_161828.jpg", "label": [{"points": [[16, 12], [149, 12], [149, 43], [16, 43]], "transcription": "59017a40", "ignore": false}]}
+{"image_path": "train/20200618_111913a.jpg", "label": [{"points": [[9, 7], [121, 7], [121, 54], [9, 54]], "transcription": "183264", "ignore": false}]}
+{"image_path": "train/20200614_131017.jpg", "label": [{"points": [[14, 8], [70, 8], [70, 19], [14, 19]], "transcription": "37647b8", "ignore": false}]}
+{"image_path": "train/20200614_151951.jpg", "label": [{"points": [[49, 41], [194, 41], [194, 79], [49, 79]], "transcription": "98272h6", "ignore": false}]}
+{"image_path": "train/20200622_203355a.jpg", "label": [{"points": [[96, 38], [1247, 38], [1247, 302], [96, 302]], "transcription": "12929waw6", "ignore": false}]}
+{"image_path": "train/20200618_095719a.jpg", "label": [{"points": [[15, 34], [668, 34], [668, 479], [15, 479]], "transcription": "70424d6", "ignore": false}]}
+{"image_path": "train/20200614_161602.jpg", "label": [{"points": [[12, 18], [140, 18], [140, 53], [12, 53]], "transcription": "573470ww", "ignore": false}]}
+{"image_path": "train/20200614_151637.jpg", "label": [{"points": [[110, 35], [931, 35], [931, 219], [110, 219]], "transcription": "9491d8", "ignore": false}]}
+{"image_path": "train/20200617_184929a.jpg", "label": [{"points": [[43, 22], [687, 22], [687, 186], [43, 186]], "transcription": "44395a11", "ignore": false}]}
+{"image_path": "train/20200614_130529.jpg", "label": [{"points": [[30, 26], [337, 26], [337, 91], [30, 91]], "transcription": "26016b15", "ignore": false}]}
+{"image_path": "train/20200626_121545b.jpg", "label": [{"points": [[36, 17], [555, 17], [555, 153], [36, 153]], "transcription": "23890d8", "ignore": false}]}
+{"image_path": "train/20200626_121215b.jpg", "label": [{"points": [[56, 19], [626, 19], [626, 161], [56, 161]], "transcription": "96234a15", "ignore": false}]}
+{"image_path": "train/20200620_110606a.jpg", "label": [{"points": [[81, 46], [1210, 46], [1210, 345], [81, 345]], "transcription": "48300b8", "ignore": false}]}
+{"image_path": "train/20200626_121314b.jpg", "label": [{"points": [[94, 58], [751, 58], [751, 202], [94, 202]], "transcription": "27069a10", "ignore": false}]}
+{"image_path": "train/20200614_161553.jpg", "label": [{"points": [[7, 18], [116, 18], [116, 44], [7, 44]], "transcription": "70426b8", "ignore": false}]}
+{"image_path": "train/20200614_162520a.jpg", "label": [{"points": [[5, 7], [80, 7], [80, 24], [5, 24]], "transcription": "71125waw6", "ignore": false}]}
+{"image_path": "train/20200614_131914.jpg", "label": [{"points": [[38, 42], [393, 42], [393, 154], [38, 154]], "transcription": "46245b8", "ignore": false}]}
+{"image_path": "train/20200617_193722a.jpg", "label": [{"points": [[50, 20], [493, 20], [493, 353], [50, 353]], "transcription": "2a738161", "ignore": false}]}
+{"image_path": "train/20200614_131153.jpg", "label": [{"points": [[12, 9], [125, 9], [125, 43], [12, 43]], "transcription": "50123a20", "ignore": false}]}
+{"image_path": "train/20200614_130647.jpg", "label": [{"points": [[10, 7], [101, 7], [101, 33], [10, 33]], "transcription": "92347a7", "ignore": false}]}
+{"image_path": "train/20200614_161404.jpg", "label": [{"points": [[27, 23], [408, 23], [408, 225], [27, 225]], "transcription": "78995a72", "ignore": false}]}
+{"image_path": "train/20200614_130439.jpg", "label": [{"points": [[15, 11], [118, 11], [118, 44], [15, 44]], "transcription": "599626ww", "ignore": false}]}
+{"image_path": "train/20200614_151648.jpg", "label": [{"points": [[61, 67], [830, 67], [830, 245], [61, 245]], "transcription": "557330ww", "ignore": false}]}
+{"image_path": "train/20200614_130630.jpg", "label": [{"points": [[16, 12], [157, 12], [157, 81], [16, 81]], "transcription": "63337h6", "ignore": false}]}
+{"image_path": "train/20200614_161302.jpg", "label": [{"points": [[13, 5], [97, 5], [97, 21], [13, 21]], "transcription": "41892h6", "ignore": false}]}
+{"image_path": "train/20200616_174655a.jpg", "label": [{"points": [[102, 84], [1348, 84], [1348, 385], [102, 385]], "transcription": "9140d8", "ignore": false}]}
+{"image_path": "train/20200614_161557.jpg", "label": [{"points": [[19, 12], [145, 12], [145, 45], [19, 45]], "transcription": "28209a61", "ignore": false}]}
+{"image_path": "train/20200626_122121b.jpg", "label": [{"points": [[97, 95], [284, 95], [284, 233], [97, 233]], "transcription": "0126068", "ignore": false}]}
+{"image_path": "train/20200614_162506a.jpg", "label": [{"points": [[4, 5], [77, 5], [77, 25], [4, 25]], "transcription": "27025d8", "ignore": false}]}
+{"image_path": "train/20200614_161704.jpg", "label": [{"points": [[13, 9], [68, 9], [68, 34], [13, 34]], "transcription": "76195waw6", "ignore": false}]}
+{"image_path": "train/20200615_191145a.jpg", "label": [{"points": [[20, 41], [833, 41], [833, 321], [20, 321]], "transcription": "4342b72", "ignore": false}]}
+{"image_path": "train/20200614_204631a.jpg", "label": [{"points": [[62, 47], [709, 47], [709, 210], [62, 210]], "transcription": "9777waw1", "ignore": false}]}
+{"image_path": "train/20200618_095659a.jpg", "label": [{"points": [[40, 20], [412, 20], [412, 151], [40, 151]], "transcription": "24256a68", "ignore": false}]}
+{"image_path": "train/20200614_151741.jpg", "label": [{"points": [[96, 66], [1544, 66], [1544, 490], [96, 490]], "transcription": "66859b8", "ignore": false}]}
+{"image_path": "train/20200614_151740.jpg", "label": [{"points": [[164, 71], [2032, 71], [2032, 961], [164, 961]], "transcription": "66859b8", "ignore": false}]}
+{"image_path": "train/20200620_194205a.jpg", "label": [{"points": [[35, 17], [605, 17], [605, 171], [35, 171]], "transcription": "78308h6", "ignore": false}]}
+{"image_path": "train/20200614_162338.jpg", "label": [{"points": [[9, 12], [104, 12], [104, 38], [9, 38]], "transcription": "557330ww", "ignore": false}]}
+{"image_path": "train/20200614_161630.jpg", "label": [{"points": [[18, 7], [125, 7], [125, 48], [18, 48]], "transcription": "16480b6", "ignore": false}]}
+{"image_path": "train/20200618_110043a.jpg", "label": [{"points": [[18, 39], [440, 39], [440, 193], [18, 193]], "transcription": "610741ww", "ignore": false}]}
+{"image_path": "train/20200620_110422a.jpg", "label": [{"points": [[29, 20], [348, 20], [348, 117], [29, 117]], "transcription": "9893h1", "ignore": false}]}
+{"image_path": "train/20200614_161836.jpg", "label": [{"points": [[45, 23], [435, 23], [435, 135], [45, 135]], "transcription": "20482d8", "ignore": false}]}
+{"image_path": "train/20200614_130423(0).jpg", "label": [{"points": [[12, 5], [83, 5], [83, 26], [12, 26]], "transcription": "92347a7", "ignore": false}]}
+{"image_path": "train/20200626_121809a.jpg", "label": [{"points": [[38, 66], [646, 66], [646, 294], [38, 294]], "transcription": "597401ww", "ignore": false}]}
+{"image_path": "train/20200614_190921a.jpg", "label": [{"points": [[40, 17], [458, 17], [458, 102], [40, 102]], "transcription": "30028waw6", "ignore": false}]}
+{"image_path": "train/20200626_122110b.jpg", "label": [{"points": [[60, 43], [292, 43], [292, 96], [60, 96]], "transcription": "1661waw6", "ignore": false}]}
+{"image_path": "train/20200618_105137a.jpg", "label": [{"points": [[23, 6], [452, 6], [452, 104], [23, 104]], "transcription": "2840a6", "ignore": false}]}
+{"image_path": "train/20200614_204751a.jpg", "label": [{"points": [[99, 32], [1043, 32], [1043, 281], [99, 281]], "transcription": "5283d6", "ignore": false}]}
+{"image_path": "train/20200618_095514a.jpg", "label": [{"points": [[52, 46], [674, 46], [674, 334], [52, 334]], "transcription": "12447d8", "ignore": false}]}
+{"image_path": "train/20200618_105304a.jpg", "label": [{"points": [[29, 19], [407, 19], [407, 102], [29, 102]], "transcription": "74794h6", "ignore": false}]}
+{"image_path": "train/20200614_161523.jpg", "label": [{"points": [[47, 30], [167, 30], [167, 102], [47, 102]], "transcription": "1071", "ignore": false}]}
+{"image_path": "train/20200614_130603.jpg", "label": [{"points": [[19, 19], [177, 19], [177, 78], [19, 78]], "transcription": "49133h6", "ignore": false}]}
+{"image_path": "train/20200618_095328a.jpg", "label": [{"points": [[37, 20], [516, 20], [516, 209], [37, 209]], "transcription": "11391a48", "ignore": false}]}
+{"image_path": "train/20200614_162712a.jpg", "label": [{"points": [[63, 42], [680, 42], [680, 166], [63, 166]], "transcription": "99873d1", "ignore": false}]}
+{"image_path": "train/20200614_161640.jpg", "label": [{"points": [[17, 1], [138, 1], [138, 33], [17, 33]], "transcription": "35896a8", "ignore": false}]}
+{"image_path": "train/20200618_113332a.jpg", "label": [{"points": [[20, 19], [511, 19], [511, 147], [20, 147]], "transcription": "54715waw6", "ignore": false}]}
+{"image_path": "train/20200614_151925.jpg", "label": [{"points": [[45, 46], [793, 46], [793, 331], [45, 331]], "transcription": "84641a7", "ignore": false}]}
+{"image_path": "train/20200620_194131a.jpg", "label": [{"points": [[31, 14], [582, 14], [582, 241], [31, 241]], "transcription": "83359h6", "ignore": false}]}
+{"image_path": "train/20200626_121804a.jpg", "label": [{"points": [[14, 87], [178, 87], [178, 217], [14, 217]], "transcription": "0262211", "ignore": false}]}
+{"image_path": "train/20200618_094809a.jpg", "label": [{"points": [[45, 29], [940, 29], [940, 251], [45, 251]], "transcription": "48361a14", "ignore": false}]}
+{"image_path": "train/20200614_204737a.jpg", "label": [{"points": [[52, 15], [674, 15], [674, 197], [52, 197]], "transcription": "34623waw6", "ignore": false}]}
+{"image_path": "train/20200614_151657.jpg", "label": [{"points": [[122, 91], [1505, 91], [1505, 344], [122, 344]], "transcription": "17666d8", "ignore": false}]}
+{"image_path": "train/20200614_131947.jpg", "label": [{"points": [[55, 72], [878, 72], [878, 374], [55, 374]], "transcription": "82141d6", "ignore": false}]}
+{"image_path": "train/20200614_161747(0).jpg", "label": [{"points": [[47, 37], [391, 37], [391, 175], [47, 175]], "transcription": "85705b6", "ignore": false}]}
+{"image_path": "train/20200614_161222.jpg", "label": [{"points": [[2, 12], [45, 12], [45, 31], [2, 31]], "transcription": "89112b8", "ignore": false}]}
+{"image_path": "train/20200614_130559(0).jpg", "label": [{"points": [[15, 11], [153, 11], [153, 72], [15, 72]], "transcription": "16233d8", "ignore": false}]}
+{"image_path": "train/20200617_185159a.jpg", "label": [{"points": [[60, 22], [385, 22], [385, 291], [60, 291]], "transcription": "3a183811", "ignore": false}]}
+{"image_path": "train/20200614_130647(0).jpg", "label": [{"points": [[13, 9], [144, 9], [144, 46], [13, 46]], "transcription": "92347a7", "ignore": false}]}
+{"image_path": "train/20200614_190927a.jpg", "label": [{"points": [[37, 29], [617, 29], [617, 219], [37, 219]], "transcription": "91815b6", "ignore": false}]}
+{"image_path": "train/20200614_130406.jpg", "label": [{"points": [[8, 6], [123, 6], [123, 32], [8, 32]], "transcription": "3286d8", "ignore": false}]}
+{"image_path": "train/20200626_121454b.jpg", "label": [{"points": [[181, 37], [1050, 37], [1050, 302], [181, 302]], "transcription": "73948h6", "ignore": false}]}
+{"image_path": "train/20200626_122203b.jpg", "label": [{"points": [[81, 71], [408, 71], [408, 159], [81, 159]], "transcription": "67879h6", "ignore": false}]}
+{"image_path": "train/20200618_103842a.jpg", "label": [{"points": [[32, 44], [699, 44], [699, 261], [32, 261]], "transcription": "187620", "ignore": false}]}
+{"image_path": "train/20200618_110105___ADD_1a.jpg", "label": [{"points": [[53, 29], [248, 29], [248, 86], [53, 86]], "transcription": "17593d8", "ignore": false}]}
+{"image_path": "train/20200614_161723.jpg", "label": [{"points": [[9, 6], [66, 6], [66, 23], [9, 23]], "transcription": "89258h6", "ignore": false}]}
+{"image_path": "train/20200618_110038___ADD_1a.jpg", "label": [{"points": [[23, 22], [205, 22], [205, 91], [23, 91]], "transcription": "92924b6", "ignore": false}]}
+{"image_path": "train/20200623_172906a.jpg", "label": [{"points": [[32, 21], [523, 21], [523, 133], [32, 133]], "transcription": "40911waw6", "ignore": false}]}
+{"image_path": "train/20200626_121803b.jpg", "label": [{"points": [[65, 52], [181, 52], [181, 143], [65, 143]], "transcription": "0226211", "ignore": false}]}
+{"image_path": "train/20200614_130655.jpg", "label": [{"points": [[10, 7], [91, 7], [91, 26], [10, 26]], "transcription": "94814a8", "ignore": false}]}
+{"image_path": "train/20200617_193605a.jpg", "label": [{"points": [[26, 51], [570, 51], [570, 146], [26, 146]], "transcription": "587943ww", "ignore": false}]}
+{"image_path": "train/20200614_161443.jpg", "label": [{"points": [[16, 13], [116, 13], [116, 55], [16, 55]], "transcription": "84794h6", "ignore": false}]}
+{"image_path": "train/20200618_105409a.jpg", "label": [{"points": [[51, 21], [500, 21], [500, 123], [51, 123]], "transcription": "61768d6", "ignore": false}]}
+{"image_path": "train/20200615_191118a.jpg", "label": [{"points": [[13, 24], [325, 24], [325, 115], [13, 115]], "transcription": "70733b6", "ignore": false}]}
+{"image_path": "train/20200616_123434a.jpg", "label": [{"points": [[39, 25], [778, 25], [778, 242], [39, 242]], "transcription": "6h54062", "ignore": false}]}
+{"image_path": "train/20200614_204402a.jpg", "label": [{"points": [[11, 40], [490, 40], [490, 263], [11, 263]], "transcription": "35987waw6", "ignore": false}]}
+{"image_path": "train/20200618_103839a.jpg", "label": [{"points": [[22, 30], [279, 30], [279, 117], [22, 117]], "transcription": "187620", "ignore": false}]}
+{"image_path": "train/20200617_193504___ADD_1a.jpg", "label": [{"points": [[51, 6], [74, 6], [74, 21], [51, 21]], "transcription": "a7", "ignore": false}]}
+{"image_path": "train/20200623_172940a.jpg", "label": [{"points": [[32, 20], [414, 20], [414, 138], [32, 138]], "transcription": "74212a7", "ignore": false}]}
+{"image_path": "train/20200617_193517a.jpg", "label": [{"points": [[26, 48], [190, 48], [190, 168], [26, 168]], "transcription": "0308130", "ignore": false}]}
+{"image_path": "train/20200614_130453.jpg", "label": [{"points": [[12, 7], [128, 7], [128, 27], [12, 27]], "transcription": "80976b8", "ignore": false}]}
+{"image_path": "train/20200620_110604a.jpg", "label": [{"points": [[33, 11], [520, 11], [520, 109], [33, 109]], "transcription": "48300b8", "ignore": false}]}
+{"image_path": "train/20200614_162023.jpg", "label": [{"points": [[9, 9], [119, 9], [119, 47], [9, 47]], "transcription": "59582waw6", "ignore": false}]}
+{"image_path": "train/20200614_161724(0).jpg", "label": [{"points": [[6, 12], [149, 12], [149, 63], [6, 63]], "transcription": "72267h6", "ignore": false}]}
+{"image_path": "train/20200614_161122.jpg", "label": [{"points": [[53, 24], [788, 24], [788, 253], [53, 253]], "transcription": "72368b8", "ignore": false}]}
+{"image_path": "train/20200614_132000.jpg", "label": [{"points": [[108, 74], [554, 74], [554, 323], [108, 323]], "transcription": "46756b1", "ignore": false}]}
+{"image_path": "train/20200614_130637.jpg", "label": [{"points": [[14, 23], [214, 23], [214, 145], [14, 145]], "transcription": "5785a7", "ignore": false}]}
+{"image_path": "train/20200626_121639a.jpg", "label": [{"points": [[17, 6], [377, 6], [377, 92], [17, 92]], "transcription": "35690h6", "ignore": false}]}
+{"image_path": "train/20200614_130349.jpg", "label": [{"points": [[35, 64], [389, 64], [389, 310], [35, 310]], "transcription": "558a1", "ignore": false}]}
+{"image_path": "train/20200618_101006a.jpg", "label": [{"points": [[17, 11], [383, 11], [383, 104], [17, 104]], "transcription": "93176a72", "ignore": false}]}
+{"image_path": "train/20200617_193504a.jpg", "label": [{"points": [[4, 15], [39, 15], [39, 41], [4, 41]], "transcription": "0308130", "ignore": false}]}
+{"image_path": "train/20200614_151905.jpg", "label": [{"points": [[54, 51], [784, 51], [784, 220], [54, 220]], "transcription": "83013h1", "ignore": false}]}
+{"image_path": "train/20200617_185000a.jpg", "label": [{"points": [[85, 18], [917, 18], [917, 214], [85, 214]], "transcription": "668a57", "ignore": false}]}
+{"image_path": "train/20200614_161136.jpg", "label": [{"points": [[54, 55], [442, 55], [442, 184], [54, 184]], "transcription": "15354waw6", "ignore": false}]}
+{"image_path": "train/20200614_190922a.jpg", "label": [{"points": [[41, 15], [598, 15], [598, 133], [41, 133]], "transcription": "30028waw6", "ignore": false}]}
+{"image_path": "train/20200614_161638.jpg", "label": [{"points": [[6, 9], [61, 9], [61, 24], [6, 24]], "transcription": "35896a8", "ignore": false}]}
+{"image_path": "train/20200614_162337.jpg", "label": [{"points": [[12, 11], [89, 11], [89, 36], [12, 36]], "transcription": "557330ww", "ignore": false}]}
+{"image_path": "train/20200614_162643a.jpg", "label": [{"points": [[58, 17], [411, 17], [411, 312], [58, 312]], "transcription": "a2706190", "ignore": false}]}
+{"image_path": "train/20200618_105838a.jpg", "label": [{"points": [[31, 29], [605, 29], [605, 221], [31, 221]], "transcription": "28768waw6", "ignore": false}]}
+{"image_path": "train/20200626_122007(0)a.jpg", "label": [{"points": [[71, 37], [710, 37], [710, 163], [71, 163]], "transcription": "23008h1", "ignore": false}]}
+{"image_path": "train/20200614_130423.jpg", "label": [{"points": [[12, 6], [78, 6], [78, 22], [12, 22]], "transcription": "92347a7", "ignore": false}]}
+{"image_path": "train/20200614_161545.jpg", "label": [{"points": [[10, 12], [129, 12], [129, 47], [10, 47]], "transcription": "77674b8", "ignore": false}]}
+{"image_path": "train/20200618_095845a.jpg", "label": [{"points": [[87, 28], [1857, 28], [1857, 246], [87, 246]], "transcription": "57489b6", "ignore": false}]}
+{"image_path": "train/20200618_095628a.jpg", "label": [{"points": [[37, 16], [451, 16], [451, 103], [37, 103]], "transcription": "3594d8", "ignore": false}]}
+{"image_path": "train/20200614_190916a.jpg", "label": [{"points": [[50, 28], [734, 28], [734, 198], [50, 198]], "transcription": "99201b8", "ignore": false}]}
+{"image_path": "train/20200614_130420.jpg", "label": [{"points": [[9, 14], [88, 14], [88, 32], [9, 32]], "transcription": "16645b6", "ignore": false}]}
+{"image_path": "train/20200626_122205a.jpg", "label": [{"points": [[37, 29], [654, 29], [654, 167], [37, 167]], "transcription": "67879h6", "ignore": false}]}
+{"image_path": "train/20200614_204507(0)a.jpg", "label": [{"points": [[10, 46], [611, 46], [611, 186], [10, 186]], "transcription": "35987waw6", "ignore": false}]}
+{"image_path": "train/20200614_161128.jpg", "label": [{"points": [[232, 235], [2403, 235], [2403, 1847], [232, 1847]], "transcription": "15354waw6", "ignore": false}]}
+{"image_path": "train/20200614_152014.jpg", "label": [{"points": [[71, 89], [541, 89], [541, 377], [71, 377]], "transcription": "9491d8", "ignore": false}]}
+{"image_path": "train/20200614_130433.jpg", "label": [{"points": [[17, 15], [139, 15], [139, 67], [17, 67]], "transcription": "5785a7", "ignore": false}]}
+{"image_path": "train/20200618_095330a.jpg", "label": [{"points": [[45, 36], [546, 36], [546, 223], [45, 223]], "transcription": "11391a48", "ignore": false}]}
+{"image_path": "train/20200614_132001.jpg", "label": [{"points": [[49, 98], [572, 98], [572, 464], [49, 464]], "transcription": "46756b1", "ignore": false}]}
+{"image_path": "train/20200614_130559.jpg", "label": [{"points": [[11, 1], [129, 1], [129, 37], [11, 37]], "transcription": "16233d8", "ignore": false}]}
+{"image_path": "train/20200614_131003.jpg", "label": [{"points": [[11, 2], [112, 2], [112, 28], [11, 28]], "transcription": "87004b8", "ignore": false}]}
+{"image_path": "train/20200617_185048a.jpg", "label": [{"points": [[68, 37], [834, 37], [834, 300], [68, 300]], "transcription": "15804d1", "ignore": false}]}
+{"image_path": "train/20200614_162450a.jpg", "label": [{"points": [[11, 4], [158, 4], [158, 32], [11, 32]], "transcription": "84355b8", "ignore": false}]}
+{"image_path": "train/20200618_095929a.jpg", "label": [{"points": [[14, 15], [460, 15], [460, 185], [14, 185]], "transcription": "60070b8", "ignore": false}]}
+{"image_path": "train/20200626_121519b.jpg", "label": [{"points": [[32, 34], [497, 34], [497, 148], [32, 148]], "transcription": "56142b8", "ignore": false}]}
+{"image_path": "train/20200614_204835a.jpg", "label": [{"points": [[42, 36], [809, 36], [809, 241], [42, 241]], "transcription": "8110d8", "ignore": false}]}
+{"image_path": "train/20200614_130606(0).jpg", "label": [{"points": [[12, 14], [199, 14], [199, 91], [12, 91]], "transcription": "45367a72", "ignore": false}]}
+{"image_path": "train/20200618_095021a.jpg", "label": [{"points": [[49, 24], [595, 24], [595, 132], [49, 132]], "transcription": "22421d6", "ignore": false}]}
+{"image_path": "train/20200626_122114b.jpg", "label": [{"points": [[60, 71], [562, 71], [562, 279], [60, 279]], "transcription": "72564h6", "ignore": false}]}
+{"image_path": "train/20200626_122302b.jpg", "label": [{"points": [[26, 36], [547, 36], [547, 184], [26, 184]], "transcription": "49523h6", "ignore": false}]}
+{"image_path": "train/20200617_185356a.jpg", "label": [{"points": [[34, 3], [611, 3], [611, 202], [34, 202]], "transcription": "22837h6", "ignore": false}]}
+{"image_path": "train/20200615_191056(0)a.jpg", "label": [{"points": [[30, 13], [594, 13], [594, 136], [30, 136]], "transcription": "58331a72", "ignore": false}]}
+{"image_path": "train/20200615_191021a.jpg", "label": [{"points": [[55, 41], [718, 41], [718, 246], [55, 246]], "transcription": "15181d8", "ignore": false}]}
+{"image_path": "train/20200614_162223.jpg", "label": [{"points": [[13, 14], [80, 14], [80, 36], [13, 36]], "transcription": "607202ww", "ignore": false}]}
+{"image_path": "train/20200614_161858.jpg", "label": [{"points": [[8, 11], [162, 11], [162, 48], [8, 48]], "transcription": "61689h6", "ignore": false}]}
+{"image_path": "train/20200614_131937(0).jpg", "label": [{"points": [[25, 44], [448, 44], [448, 122], [25, 122]], "transcription": "609008ww", "ignore": false}]}
+{"image_path": "train/20200614_130544.jpg", "label": [{"points": [[12, 9], [116, 9], [116, 53], [12, 53]], "transcription": "23588b15", "ignore": false}]}
+{"image_path": "train/20200614_161347(0).jpg", "label": [{"points": [[13, 0], [167, 0], [167, 36], [13, 36]], "transcription": "67566h6", "ignore": false}]}
+{"image_path": "train/20200614_131924.jpg", "label": [{"points": [[34, 118], [2230, 118], [2230, 886], [34, 886]], "transcription": "68254h6", "ignore": false}]}
+{"image_path": "train/20200614_161444.jpg", "label": [{"points": [[10, 9], [138, 9], [138, 74], [10, 74]], "transcription": "84794h6", "ignore": false}]}
+{"image_path": "train/20200626_121816a.jpg", "label": [{"points": [[15, 14], [236, 14], [236, 51], [15, 51]], "transcription": "597401ww", "ignore": false}]}
+{"image_path": "train/20200615_191144a.jpg", "label": [{"points": [[40, 44], [708, 44], [708, 316], [40, 316]], "transcription": "4342b72", "ignore": false}]}
+{"image_path": "train/20200614_130555(0).jpg", "label": [{"points": [[6, 8], [147, 8], [147, 63], [6, 63]], "transcription": "79384b8", "ignore": false}]}
+{"image_path": "train/20200614_131222.jpg", "label": [{"points": [[11, 16], [203, 16], [203, 51], [11, 51]], "transcription": "3346d8", "ignore": false}]}
+{"image_path": "train/20200614_131013(0).jpg", "label": [{"points": [[30, 14], [271, 14], [271, 86], [30, 86]], "transcription": "75020d6", "ignore": false}]}
+{"image_path": "train/20200618_110613a.jpg", "label": [{"points": [[31, 47], [2476, 47], [2476, 495], [31, 495]], "transcription": "6269a59", "ignore": false}]}
+{"image_path": "train/20200614_161347.jpg", "label": [{"points": [[9, 7], [127, 7], [127, 33], [9, 33]], "transcription": "67566h6", "ignore": false}]}
+{"image_path": "train/20200614_151756.jpg", "label": [{"points": [[221, 94], [1605, 94], [1605, 1001], [221, 1001]], "transcription": "93126h6", "ignore": false}]}
+{"image_path": "train/20200618_110422a.jpg", "label": [{"points": [[74, 12], [675, 12], [675, 142], [74, 142]], "transcription": "9162waw6", "ignore": false}]}
+{"image_path": "train/20200626_122110a.jpg", "label": [{"points": [[27, 8], [254, 8], [254, 58], [27, 58]], "transcription": "1661waw6", "ignore": false}]}
+{"image_path": "train/20200614_131221.jpg", "label": [{"points": [[10, 3], [141, 3], [141, 29], [10, 29]], "transcription": "3346d8", "ignore": false}]}
+{"image_path": "train/20200618_104112a.jpg", "label": [{"points": [[48, 31], [1063, 31], [1063, 262], [48, 262]], "transcription": "6510a58", "ignore": false}]}
+{"image_path": "train/20200614_131921.jpg", "label": [{"points": [[33, 60], [631, 60], [631, 483], [33, 483]], "transcription": "68254h6", "ignore": false}]}
+{"image_path": "train/20200614_162215.jpg", "label": [{"points": [[21, 19], [143, 19], [143, 91], [21, 91]], "transcription": "55272d1", "ignore": false}]}
+{"image_path": "train/20200617_193314a.jpg", "label": [{"points": [[37, 135], [1558, 135], [1558, 400], [37, 400]], "transcription": "585060ww", "ignore": false}]}
+{"image_path": "train/20200614_131108.jpg", "label": [{"points": [[18, 7], [150, 7], [150, 43], [18, 43]], "transcription": "73393b8", "ignore": false}]}
+{"image_path": "train/20200614_151646.jpg", "label": [{"points": [[37, 30], [425, 30], [425, 197], [37, 197]], "transcription": "557330ww", "ignore": false}]}
+{"image_path": "train/20200614_131130.jpg", "label": [{"points": [[15, 9], [108, 9], [108, 30], [15, 30]], "transcription": "49466d1", "ignore": false}]}
+{"image_path": "train/20200614_130555.jpg", "label": [{"points": [[18, 4], [134, 4], [134, 46], [18, 46]], "transcription": "79384b8", "ignore": false}]}
+{"image_path": "train/20200618_105152a.jpg", "label": [{"points": [[78, 13], [1138, 13], [1138, 308], [78, 308]], "transcription": "24411a72", "ignore": false}]}
+{"image_path": "train/20200614_130511.jpg", "label": [{"points": [[42, 26], [565, 26], [565, 172], [42, 172]], "transcription": "28364b15", "ignore": false}]}
+{"image_path": "train/20200614_151718.jpg", "label": [{"points": [[17, 27], [555, 27], [555, 167], [17, 167]], "transcription": "74100h6", "ignore": false}]}
+{"image_path": "train/20200614_204647a.jpg", "label": [{"points": [[74, 76], [1513, 76], [1513, 556], [74, 556]], "transcription": "73669a33", "ignore": false}]}
+{"image_path": "train/20200614_131119.jpg", "label": [{"points": [[17, 11], [293, 11], [293, 63], [17, 63]], "transcription": "10483a11", "ignore": false}]}
+{"image_path": "train/20200622_201635a.jpg", "label": [{"points": [[14, 12], [362, 12], [362, 102], [14, 102]], "transcription": "43681a40", "ignore": false}]}
+{"image_path": "train/20200614_162056.jpg", "label": [{"points": [[11, 12], [109, 12], [109, 33], [11, 33]], "transcription": "682d8", "ignore": false}]}
+{"image_path": "train/20200626_121737a.jpg", "label": [{"points": [[28, 13], [579, 13], [579, 151], [28, 151]], "transcription": "56175a7", "ignore": false}]}
+{"image_path": "train/20200614_161138.jpg", "label": [{"points": [[69, 22], [437, 22], [437, 138], [69, 138]], "transcription": "15354waw6", "ignore": false}]}
+{"image_path": "train/20200614_204830a.jpg", "label": [{"points": [[39, 34], [865, 34], [865, 231], [39, 231]], "transcription": "21519d6", "ignore": false}]}
+{"image_path": "train/20200614_151714.jpg", "label": [{"points": [[38, 33], [232, 33], [232, 98], [38, 98]], "transcription": "5437d8", "ignore": false}]}
+{"image_path": "train/20200617_184938a.jpg", "label": [{"points": [[49, 3], [664, 3], [664, 139], [49, 139]], "transcription": "54994a7", "ignore": false}]}
+{"image_path": "train/20200614_161045.jpg", "label": [{"points": [[24, 48], [531, 48], [531, 185], [24, 185]], "transcription": "34002h6", "ignore": false}]}
+{"image_path": "train/20200616_123633a.jpg", "label": [{"points": [[27, 64], [231, 64], [231, 198], [27, 198]], "transcription": "0138353", "ignore": false}]}
+{"image_path": "train/20200614_161722.jpg", "label": [{"points": [[6, 3], [59, 3], [59, 15], [6, 15]], "transcription": "89258h6", "ignore": false}]}
+{"image_path": "train/20200626_122122b.jpg", "label": [{"points": [[88, 117], [333, 117], [333, 316], [88, 316]], "transcription": "0162068", "ignore": false}]}
+{"image_path": "train/20200614_161106.jpg", "label": [{"points": [[34, 44], [303, 44], [303, 122], [34, 122]], "transcription": "49606a72", "ignore": false}]}
+{"image_path": "train/20200614_151924.jpg", "label": [{"points": [[42, 29], [567, 29], [567, 156], [42, 156]], "transcription": "84641a7", "ignore": false}]}
+{"image_path": "train/20200614_161550.jpg", "label": [{"points": [[8, 8], [135, 8], [135, 54], [8, 54]], "transcription": "1071a72", "ignore": false}]}
+{"image_path": "train/20200626_121744b.jpg", "label": [{"points": [[76, 63], [684, 63], [684, 234], [76, 234]], "transcription": "65437h6", "ignore": false}]}
+{"image_path": "train/20200626_122050a.jpg", "label": [{"points": [[27, 19], [607, 19], [607, 127], [27, 127]], "transcription": "93009b8", "ignore": false}]}
+{"image_path": "train/20200614_131022.jpg", "label": [{"points": [[15, 4], [112, 4], [112, 29], [15, 29]], "transcription": "227709ch", "ignore": false}]}
+{"image_path": "train/20200622_202950a.jpg", "label": [{"points": [[24, 20], [594, 20], [594, 156], [24, 156]], "transcription": "87769a6", "ignore": false}]}
+{"image_path": "train/20200614_130610.jpg", "label": [{"points": [[40, 19], [231, 19], [231, 185], [40, 185]], "transcription": "80976b8", "ignore": false}]}
+{"image_path": "train/20200614_130500.jpg", "label": [{"points": [[14, 5], [168, 5], [168, 52], [14, 52]], "transcription": "45367a72", "ignore": false}]}
+{"image_path": "train/20200626_121205b.jpg", "label": [{"points": [[101, 75], [884, 75], [884, 225], [101, 225]], "transcription": "30724a6", "ignore": false}]}
+{"image_path": "train/20200614_151755.jpg", "label": [{"points": [[118, 91], [1005, 91], [1005, 753], [118, 753]], "transcription": "93126h6", "ignore": false}]}
+{"image_path": "train/20200614_131042.jpg", "label": [{"points": [[12, 8], [185, 8], [185, 76], [12, 76]], "transcription": "56242a26", "ignore": false}]}
+{"image_path": "train/20200618_095107a.jpg", "label": [{"points": [[11, 110], [257, 110], [257, 299], [11, 299]], "transcription": "0166961", "ignore": false}]}
+{"image_path": "train/20200614_161057.jpg", "label": [{"points": [[37, 32], [328, 32], [328, 135], [37, 135]], "transcription": "48300b8", "ignore": false}]}
+{"image_path": "train/20200614_131013.jpg", "label": [{"points": [[19, 8], [179, 8], [179, 69], [19, 69]], "transcription": "75020d6", "ignore": false}]}
+{"image_path": "train/20200626_122007b.jpg", "label": [{"points": [[86, 75], [537, 75], [537, 192], [86, 192]], "transcription": "23008h1", "ignore": false}]}
+{"image_path": "train/20200617_185404a.jpg", "label": [{"points": [[41, 31], [599, 31], [599, 284], [41, 284]], "transcription": "47347a11", "ignore": false}]}
+{"image_path": "train/20200626_121744a.jpg", "label": [{"points": [[13, 25], [618, 25], [618, 192], [13, 192]], "transcription": "65437h6", "ignore": false}]}
+{"image_path": "train/20200614_161126.jpg", "label": [{"points": [[81, 67], [328, 67], [328, 221], [81, 221]], "transcription": "15354", "ignore": false}]}
+{"image_path": "train/20200617_184900a.jpg", "label": [{"points": [[37, 37], [2342, 37], [2342, 311], [37, 311]], "transcription": "55448h6", "ignore": false}]}
+{"image_path": "train/20200614_131053.jpg", "label": [{"points": [[10, 11], [136, 11], [136, 39], [10, 39]], "transcription": "27434a61", "ignore": false}]}
+{"image_path": "train/20200618_100738a.jpg", "label": [{"points": [[20, 9], [254, 9], [254, 64], [20, 64]], "transcription": "618849ww", "ignore": false}]}
+{"image_path": "train/20200617_193312a.jpg", "label": [{"points": [[33, 92], [909, 92], [909, 558], [33, 558]], "transcription": "585060ww", "ignore": false}]}
+{"image_path": "train/20200617_193253a.jpg", "label": [{"points": [[63, 15], [1645, 15], [1645, 424], [63, 424]], "transcription": "40070a11", "ignore": false}]}
+{"image_path": "train/20200614_161107.jpg", "label": [{"points": [[45, 37], [432, 37], [432, 157], [45, 157]], "transcription": "49606a72", "ignore": false}]}
+{"image_path": "train/20200617_194214a.jpg", "label": [{"points": [[49, 73], [352, 73], [352, 358], [49, 358]], "transcription": "b4542968", "ignore": false}]}
+{"image_path": "train/20200622_202034a.jpg", "label": [{"points": [[41, 18], [748, 18], [748, 332], [41, 332]], "transcription": "52610waw6", "ignore": false}]}
+{"image_path": "train/20200614_204657a.jpg", "label": [{"points": [[22, 32], [801, 32], [801, 254], [22, 254]], "transcription": "87904h6", "ignore": false}]}
+{"image_path": "train/20200614_130414.jpg", "label": [{"points": [[14, 8], [85, 8], [85, 29], [14, 29]], "transcription": "94814a8", "ignore": false}]}
+{"image_path": "train/20200614_151847.jpg", "label": [{"points": [[48, 34], [528, 34], [528, 161], [48, 161]], "transcription": "90715b8", "ignore": false}]}
+{"image_path": "train/20200614_131123.jpg", "label": [{"points": [[8, 10], [206, 10], [206, 87], [8, 87]], "transcription": "33820a14", "ignore": false}]}
+{"image_path": "train/20200618_094738a.jpg", "label": [{"points": [[13, 13], [345, 13], [345, 84], [13, 84]], "transcription": "31766waw6", "ignore": false}]}
+{"image_path": "train/20200614_162156.jpg", "label": [{"points": [[34, 22], [232, 22], [232, 68], [34, 68]], "transcription": "607202ww", "ignore": false}]}
+{"image_path": "train/20200626_121804b.jpg", "label": [{"points": [[67, 83], [231, 83], [231, 216], [67, 216]], "transcription": "0262211", "ignore": false}]}
+{"image_path": "train/20200614_130954.jpg", "label": [{"points": [[37, 55], [410, 55], [410, 398], [37, 398]], "transcription": "30666b6", "ignore": false}]}
+{"image_path": "train/20200615_191250a.jpg", "label": [{"points": [[79, 58], [1135, 58], [1135, 308], [79, 308]], "transcription": "55474a48", "ignore": false}]}
+{"image_path": "train/20200614_131118.jpg", "label": [{"points": [[12, 8], [134, 8], [134, 41], [12, 41]], "transcription": "10483a11", "ignore": false}]}
+{"image_path": "train/20200617_193453a.jpg", "label": [{"points": [[14, 51], [124, 51], [124, 136], [14, 136]], "transcription": "0308130", "ignore": false}]}
+{"image_path": "train/20200614_152021.jpg", "label": [{"points": [[49, 34], [643, 34], [643, 179], [49, 179]], "transcription": "40278waw6", "ignore": false}]}
+{"image_path": "train/20200614_130237.jpg", "label": [{"points": [[13, 13], [96, 13], [96, 34], [13, 34]], "transcription": "51707d6", "ignore": false}]}
+{"image_path": "train/20200626_122205b.jpg", "label": [{"points": [[103, 58], [729, 58], [729, 197], [103, 197]], "transcription": "67879h6", "ignore": false}]}
+{"image_path": "train/20200614_130419.jpg", "label": [{"points": [[8, 9], [71, 9], [71, 27], [8, 27]], "transcription": "16645b6", "ignore": false}]}
+{"image_path": "train/20200618_105411a.jpg", "label": [{"points": [[50, 33], [577, 33], [577, 227], [50, 227]], "transcription": "61768d6", "ignore": false}]}
+{"image_path": "train/20200618_105319a.jpg", "label": [{"points": [[35, 49], [1351, 49], [1351, 380], [35, 380]], "transcription": "22884d8", "ignore": false}]}
+{"image_path": "train/20200614_131204(0).jpg", "label": [{"points": [[6, 9], [162, 9], [162, 82], [6, 82]], "transcription": "30609a6", "ignore": false}]}
+{"image_path": "train/20200614_161953.jpg", "label": [{"points": [[24, 19], [143, 19], [143, 80], [24, 80]], "transcription": "28800b8", "ignore": false}]}
+{"image_path": "train/20200614_205302a.jpg", "label": [{"points": [[86, 54], [1196, 54], [1196, 403], [86, 403]], "transcription": "6h4626", "ignore": false}]}
+{"image_path": "train/20200614_131111.jpg", "label": [{"points": [[10, 5], [149, 5], [149, 34], [10, 34]], "transcription": "19849a72", "ignore": false}]}
+{"image_path": "train/20200614_130944.jpg", "label": [{"points": [[15, 11], [176, 11], [176, 61], [15, 61]], "transcription": "32040a56", "ignore": false}]}
+{"image_path": "train/20200614_161354.jpg", "label": [{"points": [[9, 13], [134, 13], [134, 37], [9, 37]], "transcription": "26008a2", "ignore": false}]}
+{"image_path": "train/20200618_110315a.jpg", "label": [{"points": [[73, 13], [774, 13], [774, 162], [73, 162]], "transcription": "88811h6", "ignore": false}]}
+{"image_path": "train/20200618_094634a.jpg", "label": [{"points": [[47, 17], [411, 17], [411, 136], [47, 136]], "transcription": "914waw1", "ignore": false}]}
+{"image_path": "train/20200617_193758a.jpg", "label": [{"points": [[53, 67], [1812, 67], [1812, 578], [53, 578]], "transcription": "91726h6", "ignore": false}]}
+{"image_path": "train/20200614_161359(0).jpg", "label": [{"points": [[19, 11], [136, 11], [136, 77], [19, 77]], "transcription": "46464a7", "ignore": false}]}
+{"image_path": "train/20200614_130517.jpg", "label": [{"points": [[38, 13], [365, 13], [365, 163], [38, 163]], "transcription": "15077waw6", "ignore": false}]}
+{"image_path": "train/20200614_131103.jpg", "label": [{"points": [[15, 11], [151, 11], [151, 57], [15, 57]], "transcription": "6731a72", "ignore": false}]}
+{"image_path": "train/20200620_194457a.jpg", "label": [{"points": [[39, 20], [458, 20], [458, 129], [39, 129]], "transcription": "38045b8", "ignore": false}]}
+{"image_path": "train/20200614_131002.jpg", "label": [{"points": [[11, 8], [84, 8], [84, 28], [11, 28]], "transcription": "87004b8", "ignore": false}]}
+{"image_path": "train/20200626_121809b.jpg", "label": [{"points": [[62, 96], [675, 96], [675, 339], [62, 339]], "transcription": "597401ww", "ignore": false}]}
+{"image_path": "train/20200614_161514.jpg", "label": [{"points": [[17, 8], [170, 8], [170, 45], [17, 45]], "transcription": "28209a61", "ignore": false}]}
+{"image_path": "train/20200617_185318a.jpg", "label": [{"points": [[49, 1], [781, 1], [781, 171], [49, 171]], "transcription": "24710a33", "ignore": false}]}
+{"image_path": "train/20200617_193250a.jpg", "label": [{"points": [[106, 46], [1368, 46], [1368, 411], [106, 411]], "transcription": "40070a11", "ignore": false}]}
+{"image_path": "train/20200626_121557a.jpg", "label": [{"points": [[39, 24], [529, 24], [529, 166], [39, 166]], "transcription": "33290a56", "ignore": false}]}
+{"image_path": "train/20200618_105859a.jpg", "label": [{"points": [[64, 16], [702, 16], [702, 143], [64, 143]], "transcription": "2218h6", "ignore": false}]}
+{"image_path": "train/20200614_130529(0).jpg", "label": [{"points": [[39, 18], [376, 18], [376, 69], [39, 69]], "transcription": "26016b15", "ignore": false}]}
+{"image_path": "train/20200618_095520a.jpg", "label": [{"points": [[34, 30], [535, 30], [535, 144], [34, 144]], "transcription": "45278a10", "ignore": false}]}
+{"image_path": "train/20200617_184948a.jpg", "label": [{"points": [[59, 0], [583, 0], [583, 108], [59, 108]], "transcription": "38316a11", "ignore": false}]}
+{"image_path": "train/20200614_161924.jpg", "label": [{"points": [[26, 22], [134, 22], [134, 103], [26, 103]], "transcription": "a5901470", "ignore": false}]}
+{"image_path": "train/20200614_162022.jpg", "label": [{"points": [[15, 12], [113, 12], [113, 45], [15, 45]], "transcription": "59582waw6", "ignore": false}]}
+{"image_path": "train/20200614_190927(0)a.jpg", "label": [{"points": [[33, 32], [699, 32], [699, 192], [33, 192]], "transcription": "91815b6", "ignore": false}]}
+{"image_path": "train/20200626_121237b.jpg", "label": [{"points": [[89, 65], [571, 65], [571, 201], [89, 201]], "transcription": "60361d6", "ignore": false}]}
+{"image_path": "train/20200614_161724.jpg", "label": [{"points": [[9, 14], [121, 14], [121, 36], [9, 36]], "transcription": "72267h6", "ignore": false}]}
+{"image_path": "train/20200614_162222.jpg", "label": [{"points": [[14, 14], [84, 14], [84, 38], [14, 38]], "transcription": "607202ww", "ignore": false}]}
+{"image_path": "train/20200620_194708a.jpg", "label": [{"points": [[61, 18], [824, 18], [824, 156], [61, 156]], "transcription": "9101a55", "ignore": false}]}
+{"image_path": "train/20200617_185041a.jpg", "label": [{"points": [[49, 78], [1711, 78], [1711, 581], [49, 581]], "transcription": "14185a37", "ignore": false}]}
+{"image_path": "train/20200614_161310.jpg", "label": [{"points": [[26, 15], [283, 15], [283, 119], [26, 119]], "transcription": "39669a59", "ignore": false}]}
+{"image_path": "train/20200614_151839.jpg", "label": [{"points": [[46, 42], [546, 42], [546, 222], [46, 222]], "transcription": "45765waw6", "ignore": false}]}
+{"image_path": "train/20200615_191021(0)a.jpg", "label": [{"points": [[71, 37], [881, 37], [881, 233], [71, 233]], "transcription": "15181d8", "ignore": false}]}
+{"image_path": "train/20200614_161309.jpg", "label": [{"points": [[18, 10], [183, 10], [183, 91], [18, 91]], "transcription": "39669a59", "ignore": false}]}
+{"image_path": "train/20200614_151833.jpg", "label": [{"points": [[48, 55], [379, 55], [379, 374], [48, 374]], "transcription": "22706d8", "ignore": false}]}
+{"image_path": "train/20200618_110043___ADD_1a.jpg", "label": [{"points": [[37, 23], [304, 23], [304, 113], [37, 113]], "transcription": "92924b6", "ignore": false}]}
+{"image_path": "train/20200618_113351a.jpg", "label": [{"points": [[10, 28], [304, 28], [304, 149], [10, 149]], "transcription": "1145waw6", "ignore": false}]}
+{"image_path": "train/20200617_193603a.jpg", "label": [{"points": [[13, 57], [444, 57], [444, 147], [13, 147]], "transcription": "587943ww", "ignore": false}]}
+{"image_path": "train/20200614_130443.jpg", "label": [{"points": [[15, 11], [182, 11], [182, 55], [15, 55]], "transcription": "23784h6", "ignore": false}]}
+{"image_path": "train/20200614_210136a.jpg", "label": [{"points": [[3, 47], [573, 47], [573, 192], [3, 192]], "transcription": "580337ww", "ignore": false}]}
+{"image_path": "train/20200617_193806a.jpg", "label": [{"points": [[85, 32], [1073, 32], [1073, 236], [85, 236]], "transcription": "10013a57", "ignore": false}]}
+{"image_path": "train/20200617_185129a.jpg", "label": [{"points": [[76, 50], [1039, 50], [1039, 322], [76, 322]], "transcription": "68628waw6", "ignore": false}]}
+{"image_path": "train/20200623_172952a.jpg", "label": [{"points": [[38, 0], [492, 0], [492, 105], [38, 105]], "transcription": "52570waw6", "ignore": false}]}
+{"image_path": "train/20200614_204846a.jpg", "label": [{"points": [[26, 45], [929, 45], [929, 436], [26, 436]], "transcription": "70733b6", "ignore": false}]}
+{"image_path": "train/20200614_161111.jpg", "label": [{"points": [[43, 56], [559, 56], [559, 180], [43, 180]], "transcription": "39700a10", "ignore": false}]}
+{"image_path": "train/20200614_130327.jpg", "label": [{"points": [[15, 14], [160, 14], [160, 53], [15, 53]], "transcription": "52671a11", "ignore": false}]}
+{"image_path": "train/20200618_095109a.jpg", "label": [{"points": [[18, 137], [277, 137], [277, 333], [18, 333]], "transcription": "0166961", "ignore": false}]}
+{"image_path": "train/20200614_162501a.jpg", "label": [{"points": [[6, 5], [77, 5], [77, 26], [6, 26]], "transcription": "63452a13", "ignore": false}]}
+{"image_path": "train/20200620_110526a.jpg", "label": [{"points": [[172, 74], [2148, 74], [2148, 844], [172, 844]], "transcription": "13832b7", "ignore": false}]}
+{"image_path": "train/20200614_131226.jpg", "label": [{"points": [[16, 4], [162, 4], [162, 41], [16, 41]], "transcription": "16640d1", "ignore": false}]}
+{"image_path": "train/20200614_162255.jpg", "label": [{"points": [[11, 19], [207, 19], [207, 126], [11, 126]], "transcription": "36446a14", "ignore": false}]}
+{"image_path": "train/20200614_151855.jpg", "label": [{"points": [[61, 68], [362, 68], [362, 212], [61, 212]], "transcription": "56362a7", "ignore": false}]}
+{"image_path": "train/20200614_161601.jpg", "label": [{"points": [[9, 12], [109, 12], [109, 42], [9, 42]], "transcription": "573470ww", "ignore": false}]}
+{"image_path": "train/20200614_130348.jpg", "label": [{"points": [[21, 33], [260, 33], [260, 201], [21, 201]], "transcription": "558a1", "ignore": false}]}
+{"image_path": "train/20200614_130436.jpg", "label": [{"points": [[25, 17], [216, 17], [216, 81], [25, 81]], "transcription": "63337h6", "ignore": false}]}
+{"image_path": "train/20200614_161359.jpg", "label": [{"points": [[9, 14], [98, 14], [98, 55], [9, 55]], "transcription": "46464a7", "ignore": false}]}
+{"image_path": "train/20200626_122050b.jpg", "label": [{"points": [[39, 74], [624, 74], [624, 191], [39, 191]], "transcription": "93009b8", "ignore": false}]}
+{"image_path": "train/20200614_131142.jpg", "label": [{"points": [[10, 6], [117, 6], [117, 35], [10, 35]], "transcription": "60257waw6", "ignore": false}]}
+{"image_path": "train/20200618_110228a.jpg", "label": [{"points": [[59, 50], [1617, 50], [1617, 567], [59, 567]], "transcription": "73969h6", "ignore": false}]}
+{"image_path": "train/20200614_131157.jpg", "label": [{"points": [[24, 11], [113, 11], [113, 35], [24, 35]], "transcription": "338waw6", "ignore": false}]}
+{"image_path": "train/20200614_161112.jpg", "label": [{"points": [[59, 58], [704, 58], [704, 199], [59, 199]], "transcription": "39700a10", "ignore": false}]}
+{"image_path": "train/20200614_161148.jpg", "label": [{"points": [[29, 64], [553, 64], [553, 250], [29, 250]], "transcription": "17570b7", "ignore": false}]}
+{"image_path": "train/20200617_193517___ADD_1___ADD_2a.jpg", "label": [{"points": [[21, 16], [116, 16], [116, 41], [21, 41]], "transcription": "51846waw6", "ignore": false}]}
+{"image_path": "train/20200618_095920a.jpg", "label": [{"points": [[25, 30], [772, 30], [772, 171], [25, 171]], "transcription": "59226a13", "ignore": false}]}
+{"image_path": "train/20200618_105356a.jpg", "label": [{"points": [[66, 26], [824, 26], [824, 179], [66, 179]], "transcription": "68249waw6", "ignore": false}]}
+{"image_path": "train/20200626_122122a.jpg", "label": [{"points": [[35, 53], [277, 53], [277, 246], [35, 246]], "transcription": "0162068", "ignore": false}]}
+{"image_path": "train/20200614_130604.jpg", "label": [{"points": [[19, 20], [211, 20], [211, 126], [19, 126]], "transcription": "49133h6", "ignore": false}]}
+{"image_path": "train/20200618_110134a.jpg", "label": [{"points": [[30, 25], [1017, 25], [1017, 288], [30, 288]], "transcription": "55902h6", "ignore": false}]}
+{"image_path": "train/20200614_130440.jpg", "label": [{"points": [[12, 8], [133, 8], [133, 50], [12, 50]], "transcription": "599626ww", "ignore": false}]}
+{"image_path": "train/20200618_105245a.jpg", "label": [{"points": [[24, 26], [583, 26], [583, 141], [24, 141]], "transcription": "72304h1", "ignore": false}]}
+{"image_path": "train/20200622_202111a.jpg", "label": [{"points": [[11, 46], [112, 46], [112, 126], [11, 126]], "transcription": "0281237", "ignore": false}]}
+{"image_path": "train/20200620_110622a.jpg", "label": [{"points": [[34, 33], [361, 33], [361, 109], [34, 109]], "transcription": "609008ww", "ignore": false}]}
+{"image_path": "train/20200614_130404.jpg", "label": [{"points": [[6, 9], [69, 9], [69, 25], [6, 25]], "transcription": "3286d8", "ignore": false}]}
+{"image_path": "train/20200614_131905.jpg", "label": [{"points": [[35, 43], [617, 43], [617, 148], [35, 148]], "transcription": "609008ww", "ignore": false}]}
+{"image_path": "train/20200618_105423a.jpg", "label": [{"points": [[115, 32], [1948, 32], [1948, 402], [115, 402]], "transcription": "69266waw6", "ignore": false}]}
+{"image_path": "train/20200614_161742.jpg", "label": [{"points": [[14, 24], [160, 24], [160, 100], [14, 100]], "transcription": "67159a7", "ignore": false}]}
+{"image_path": "train/20200614_161527.jpg", "label": [{"points": [[15, 18], [148, 18], [148, 72], [15, 72]], "transcription": "77674b8", "ignore": false}]}
+{"image_path": "train/20200616_174645a.jpg", "label": [{"points": [[49, 14], [757, 14], [757, 219], [49, 219]], "transcription": "23618a1", "ignore": false}]}
+{"image_path": "train/20200614_131141.jpg", "label": [{"points": [[10, 7], [88, 7], [88, 28], [10, 28]], "transcription": "60257waw6", "ignore": false}]}
+{"image_path": "train/20200614_161859.jpg", "label": [{"points": [[9, 26], [236, 26], [236, 100], [9, 100]], "transcription": "61689h6", "ignore": false}]}
+{"image_path": "train/20200617_193700a.jpg", "label": [{"points": [[44, 62], [739, 62], [739, 204], [44, 204]], "transcription": "60391d1", "ignore": false}]}
+{"image_path": "train/20200617_193504___ADD_1___ADD_2a.jpg", "label": [{"points": [[34, 8], [41, 8], [41, 16], [34, 16]], "transcription": "h", "ignore": false}]}
+{"image_path": "train/20200614_205338a.jpg", "label": [{"points": [[59, 33], [620, 33], [620, 190], [59, 190]], "transcription": "11097d1", "ignore": false}]}
+{"image_path": "train/20200626_121313b.jpg", "label": [{"points": [[86, 61], [574, 61], [574, 166], [86, 166]], "transcription": "27069a10", "ignore": false}]}
+{"image_path": "train/20200614_130626.jpg", "label": [{"points": [[9, 15], [96, 15], [96, 68], [9, 68]], "transcription": "599626ww", "ignore": false}]}
+{"image_path": "train/20200614_162449a.jpg", "label": [{"points": [[11, 7], [128, 7], [128, 40], [11, 40]], "transcription": "84355b8", "ignore": false}]}
+{"image_path": "train/20200626_122203a.jpg", "label": [{"points": [[31, 16], [358, 16], [358, 100], [31, 100]], "transcription": "67879h6", "ignore": false}]}
+{"image_path": "train/20200614_130313.jpg", "label": [{"points": [[7, 8], [74, 8], [74, 21], [7, 21]], "transcription": "599625ww", "ignore": false}]}
+{"image_path": "train/20200614_152021(0).jpg", "label": [{"points": [[35, 40], [706, 40], [706, 200], [35, 200]], "transcription": "40278waw6", "ignore": false}]}
+{"image_path": "train/20200614_130303.jpg", "label": [{"points": [[15, 9], [101, 9], [101, 41], [15, 41]], "transcription": "87704h6", "ignore": false}]}
+{"image_path": "train/20200618_105841a.jpg", "label": [{"points": [[57, 32], [957, 32], [957, 373], [57, 373]], "transcription": "28768waw6", "ignore": false}]}
+{"image_path": "train/20200614_130942(0).jpg", "label": [{"points": [[6, 8], [92, 8], [92, 30], [6, 30]], "transcription": "32040a56", "ignore": false}]}
+{"image_path": "train/20200617_185117a.jpg", "label": [{"points": [[65, 20], [1150, 20], [1150, 339], [65, 339]], "transcription": "23131a11", "ignore": false}]}
+{"image_path": "train/20200614_131904.jpg", "label": [{"points": [[24, 37], [370, 37], [370, 101], [24, 101]], "transcription": "609008ww", "ignore": false}]}
+{"image_path": "train/20200614_130245.jpg", "label": [{"points": [[45, 30], [280, 30], [280, 154], [45, 154]], "transcription": "15741b15", "ignore": false}]}
+{"image_path": "train/20200626_121235b.jpg", "label": [{"points": [[92, 15], [436, 15], [436, 104], [92, 104]], "transcription": "60361d6", "ignore": false}]}
+{"image_path": "train/20200614_151935.jpg", "label": [{"points": [[106, 92], [1410, 92], [1410, 877], [106, 877]], "transcription": "74100h6", "ignore": false}]}
+{"image_path": "train/20200618_111925a.jpg", "label": [{"points": [[12, 10], [155, 10], [155, 63], [12, 63]], "transcription": "43183h6", "ignore": false}]}
+{"image_path": "train/20200626_121737b.jpg", "label": [{"points": [[59, 63], [618, 63], [618, 204], [59, 204]], "transcription": "56175a7", "ignore": false}]}
+{"image_path": "train/20200617_193849a.jpg", "label": [{"points": [[41, 15], [652, 15], [652, 109], [41, 109]], "transcription": "90225d1", "ignore": false}]}
+{"image_path": "train/20200622_201605a.jpg", "label": [{"points": [[27, 4], [378, 4], [378, 76], [27, 76]], "transcription": "36229a40", "ignore": false}]}
+{"image_path": "train/20200618_105012a.jpg", "label": [{"points": [[20, 41], [1020, 41], [1020, 220], [20, 220]], "transcription": "67383h6", "ignore": false}]}
+{"image_path": "train/20200617_184917a.jpg", "label": [{"points": [[34, 23], [771, 23], [771, 335], [34, 335]], "transcription": "64610h6", "ignore": false}]}
+{"image_path": "train/20200614_161736.jpg", "label": [{"points": [[10, 15], [103, 15], [103, 47], [10, 47]], "transcription": "40663h6", "ignore": false}]}
+{"image_path": "train/20200617_194018a.jpg", "label": [{"points": [[94, 14], [553, 14], [553, 118], [94, 118]], "transcription": "1511waw6", "ignore": false}]}
+{"image_path": "train/20200614_151735.jpg", "label": [{"points": [[111, 30], [1124, 30], [1124, 513], [111, 513]], "transcription": "40494a50", "ignore": false}]}
+{"image_path": "train/20200626_122047b.jpg", "label": [{"points": [[54, 65], [341, 65], [341, 123], [54, 123]], "transcription": "93009b8", "ignore": false}]}
+{"image_path": "train/20200614_131059(0).jpg", "label": [{"points": [[81, 16], [522, 16], [522, 122], [81, 122]], "transcription": "1589a6", "ignore": false}]}
+{"image_path": "train/20200614_161053.jpg", "label": [{"points": [[26, 45], [320, 45], [320, 167], [26, 167]], "transcription": "20849d8", "ignore": false}]}
+{"image_path": "train/20200617_184855a.jpg", "label": [{"points": [[47, 67], [674, 67], [674, 616], [47, 616]], "transcription": "55448h6", "ignore": false}]}
+{"image_path": "train/20200614_161856.jpg", "label": [{"points": [[5, 10], [77, 10], [77, 32], [5, 32]], "transcription": "61689h6", "ignore": false}]}
+{"image_path": "train/20200614_151910.jpg", "label": [{"points": [[47, 64], [649, 64], [649, 291], [47, 291]], "transcription": "95853h6", "ignore": false}]}
+{"image_path": "train/20200614_161932.jpg", "label": [{"points": [[6, 6], [56, 6], [56, 23], [6, 23]], "transcription": "53956b", "ignore": false}]}
+{"image_path": "train/20200614_162036(0).jpg", "label": [{"points": [[15, 13], [153, 13], [153, 47], [15, 47]], "transcription": "79240b8", "ignore": false}]}
+{"image_path": "train/20200623_173314a.jpg", "label": [{"points": [[16, 13], [239, 13], [239, 63], [16, 63]], "transcription": "85795h6", "ignore": false}]}
+{"image_path": "train/20200614_151904.jpg", "label": [{"points": [[53, 65], [629, 65], [629, 270], [53, 270]], "transcription": "83013h1", "ignore": false}]}
+{"image_path": "train/20200616_123632a.jpg", "label": [{"points": [[49, 64], [240, 64], [240, 203], [49, 203]], "transcription": "0138353", "ignore": false}]}
+{"image_path": "train/20200614_151855(0).jpg", "label": [{"points": [[124, 57], [538, 57], [538, 212], [124, 212]], "transcription": "56362a7", "ignore": false}]}
+{"image_path": "train/20200614_131102.jpg", "label": [{"points": [[18, 9], [152, 9], [152, 57], [18, 57]], "transcription": "6731a72", "ignore": false}]}
+{"image_path": "train/20200614_161713.jpg", "label": [{"points": [[16, 8], [121, 8], [121, 33], [16, 33]], "transcription": "79240b8", "ignore": false}]}
+{"image_path": "train/20200614_130656.jpg", "label": [{"points": [[9, 7], [113, 7], [113, 40], [9, 40]], "transcription": "57902a55", "ignore": false}]}
+{"image_path": "train/20200614_130931.jpg", "label": [{"points": [[9, 8], [123, 8], [123, 43], [9, 43]], "transcription": "75112b8", "ignore": false}]}
+{"image_path": "train/20200614_130314.jpg", "label": [{"points": [[14, 8], [112, 8], [112, 34], [14, 34]], "transcription": "599625ww", "ignore": false}]}
+{"image_path": "train/20200618_110420a.jpg", "label": [{"points": [[47, 14], [530, 14], [530, 149], [47, 149]], "transcription": "9162waw6", "ignore": false}]}
+{"image_path": "train/20200616_174647a.jpg", "label": [{"points": [[41, 36], [1071, 36], [1071, 471], [41, 471]], "transcription": "23618a1", "ignore": false}]}
+{"image_path": "train/20200617_193237a.jpg", "label": [{"points": [[39, 55], [926, 55], [926, 247], [39, 247]], "transcription": "97132a40", "ignore": false}]}
+{"image_path": "train/20200615_191105a.jpg", "label": [{"points": [[41, 33], [601, 33], [601, 278], [41, 278]], "transcription": "21519d6", "ignore": false}]}
+{"image_path": "train/20200614_204412a.jpg", "label": [{"points": [[35, 21], [633, 21], [633, 168], [35, 168]], "transcription": "35987waw6", "ignore": false}]}
+{"image_path": "train/20200614_161511.jpg", "label": [{"points": [[11, 20], [124, 20], [124, 83], [11, 83]], "transcription": "573470ww", "ignore": false}]}
+{"image_path": "train/20200618_095639a.jpg", "label": [{"points": [[50, 50], [682, 50], [682, 514], [50, 514]], "transcription": "30051a9", "ignore": false}]}
+{"image_path": "train/20200614_131008.jpg", "label": [{"points": [[15, 10], [216, 10], [216, 62], [15, 62]], "transcription": "49149b26", "ignore": false}]}
+{"image_path": "train/20200614_131059.jpg", "label": [{"points": [[78, 22], [445, 22], [445, 141], [78, 141]], "transcription": "1589a6", "ignore": false}]}
+{"image_path": "train/20200620_194725a.jpg", "label": [{"points": [[27, 29], [503, 29], [503, 243], [27, 243]], "transcription": "18530a6", "ignore": false}]}
+{"image_path": "train/20200622_201907a.jpg", "label": [{"points": [[14, 15], [408, 15], [408, 116], [14, 116]], "transcription": "12256h6", "ignore": false}]}
+{"image_path": "train/20200614_204634a.jpg", "label": [{"points": [[103, 81], [1280, 81], [1280, 518], [103, 518]], "transcription": "9777waw1", "ignore": false}]}
+{"image_path": "train/20200626_122121a.jpg", "label": [{"points": [[31, 80], [215, 80], [215, 214], [31, 214]], "transcription": "0126068", "ignore": false}]}
+{"image_path": "train/20200617_194005a.jpg", "label": [{"points": [[47, 52], [1108, 52], [1108, 311], [47, 311]], "transcription": "84916h6", "ignore": false}]}
+{"image_path": "train/20200617_194208a.jpg", "label": [{"points": [[70, 27], [517, 27], [517, 189], [70, 189]], "transcription": "45881a14", "ignore": false}]}
+{"image_path": "train/20200626_122114a.jpg", "label": [{"points": [[22, 53], [520, 53], [520, 256], [22, 256]], "transcription": "72564h6", "ignore": false}]}
+{"image_path": "train/20200618_105234a.jpg", "label": [{"points": [[33, 16], [574, 16], [574, 151], [33, 151]], "transcription": "77174b8", "ignore": false}]}
+{"image_path": "train/20200626_121816b.jpg", "label": [{"points": [[80, 52], [307, 52], [307, 97], [80, 97]], "transcription": "597401ww", "ignore": false}]}
+{"image_path": "train/20200614_162026.jpg", "label": [{"points": [[10, 14], [123, 14], [123, 47], [10, 47]], "transcription": "72267h6", "ignore": false}]}
+{"image_path": "train/20200622_201602a.jpg", "label": [{"points": [[16, 6], [210, 6], [210, 50], [16, 50]], "transcription": "36229a40", "ignore": false}]}
+{"image_path": "train/20200614_161149.jpg", "label": [{"points": [[29, 34], [744, 34], [744, 237], [29, 237]], "transcription": "17570b7", "ignore": false}]}
+{"image_path": "train/20200626_122047a.jpg", "label": [{"points": [[13, 10], [300, 10], [300, 66], [13, 66]], "transcription": "93009b8", "ignore": false}]}
+{"image_path": "train/20200614_131211(0).jpg", "label": [{"points": [[38, 24], [451, 24], [451, 147], [38, 147]], "transcription": "82247b8", "ignore": false}]}
+{"image_path": "train/20200620_194510a.jpg", "label": [{"points": [[48, 15], [850, 15], [850, 302], [48, 302]], "transcription": "52174h6", "ignore": false}]}
+{"image_path": "train/20200614_161505.jpg", "label": [{"points": [[9, 8], [130, 8], [130, 38], [9, 38]], "transcription": "31067waw6", "ignore": false}]}
+{"image_path": "train/20200614_161051.jpg", "label": [{"points": [[43, 65], [813, 65], [813, 335], [43, 335]], "transcription": "34250d8", "ignore": false}]}
+{"image_path": "train/20200617_185223a.jpg", "label": [{"points": [[23, 12], [647, 12], [647, 176], [23, 176]], "transcription": "16038a11", "ignore": false}]}
+{"image_path": "train/20200614_130326.jpg", "label": [{"points": [[11, 6], [123, 6], [123, 30], [11, 30]], "transcription": "52671a11", "ignore": false}]}
+{"image_path": "train/20200614_152008.jpg", "label": [{"points": [[69, 29], [709, 29], [709, 182], [69, 182]], "transcription": "21304d8", "ignore": false}]}
+{"image_path": "train/20200616_175457a.jpg", "label": [{"points": [[22, 85], [278, 85], [278, 283], [22, 283]], "transcription": "0167023", "ignore": false}]}
+{"image_path": "train/20200620_194127___ADD_1a.jpg", "label": [{"points": [[19, 9], [152, 9], [152, 54], [19, 54]], "transcription": "98428h6", "ignore": false}]}
+{"image_path": "train/20200617_185301a.jpg", "label": [{"points": [[40, 6], [901, 6], [901, 192], [40, 192]], "transcription": "87000a1", "ignore": false}]}
+{"image_path": "train/20200614_130622.jpg", "label": [{"points": [[11, 9], [167, 9], [167, 42], [11, 42]], "transcription": "23784h6", "ignore": false}]}
+{"image_path": "train/20200614_205231a.jpg", "label": [{"points": [[49, 31], [942, 31], [942, 258], [49, 258]], "transcription": "35269waw6", "ignore": false}]}
+{"image_path": "train/20200626_121736b.jpg", "label": [{"points": [[48, 59], [454, 59], [454, 170], [48, 170]], "transcription": "56175a7", "ignore": false}]}
+{"image_path": "train/20200614_151739.jpg", "label": [{"points": [[104, 75], [1194, 75], [1194, 832], [104, 832]], "transcription": "66859b8", "ignore": false}]}
+{"image_path": "train/20200614_161954.jpg", "label": [{"points": [[24, 16], [176, 16], [176, 79], [24, 79]], "transcription": "28800b8", "ignore": false}]}
+{"image_path": "train/20200622_203351a.jpg", "label": [{"points": [[34, 17], [684, 17], [684, 178], [34, 178]], "transcription": "12929waw6", "ignore": false}]}
+{"image_path": "train/20200614_131211.jpg", "label": [{"points": [[20, 21], [319, 21], [319, 144], [20, 144]], "transcription": "82247b8", "ignore": false}]}
+{"image_path": "train/20200614_151956.jpg", "label": [{"points": [[23, 45], [461, 45], [461, 196], [23, 196]], "transcription": "98272h6", "ignore": false}]}
+{"image_path": "train/20200617_185056a.jpg", "label": [{"points": [[19, 23], [601, 23], [601, 204], [19, 204]], "transcription": "91349h6", "ignore": false}]}
+{"image_path": "train/20200626_121640b.jpg", "label": [{"points": [[68, 38], [770, 38], [770, 182], [68, 182]], "transcription": "35690h6", "ignore": false}]}
+{"image_path": "train/20200626_121305b.jpg", "label": [{"points": [[31, 42], [412, 42], [412, 130], [31, 130]], "transcription": "26524a40", "ignore": false}]}
+{"image_path": "train/20200614_205457a.jpg", "label": [{"points": [[61, 60], [1136, 60], [1136, 407], [61, 407]], "transcription": "51799a56", "ignore": false}]}
+{"image_path": "train/20200614_130606.jpg", "label": [{"points": [[18, 11], [165, 11], [165, 66], [18, 66]], "transcription": "45367a72", "ignore": false}]}
+{"image_path": "train/20200618_100741a.jpg", "label": [{"points": [[50, 0], [672, 0], [672, 131], [50, 131]], "transcription": "618849ww", "ignore": false}]}
+{"image_path": "train/20200614_162701a.jpg", "label": [{"points": [[42, 32], [589, 32], [589, 159], [42, 159]], "transcription": "66237h6", "ignore": false}]}
+{"image_path": "train/20200614_130306.jpg", "label": [{"points": [[13, 21], [116, 21], [116, 59], [13, 59]], "transcription": "552679ww", "ignore": false}]}
+{"image_path": "train/20200626_122007(0)b.jpg", "label": [{"points": [[119, 59], [771, 59], [771, 188], [119, 188]], "transcription": "23008h1", "ignore": false}]}
+{"image_path": "train/20200614_152025.jpg", "label": [{"points": [[61, 41], [705, 41], [705, 160], [61, 160]], "transcription": "67632h6", "ignore": false}]}
+{"image_path": "train/20200618_105622a.jpg", "label": [{"points": [[89, 14], [614, 14], [614, 147], [89, 147]], "transcription": "1357waw6", "ignore": false}]}
+{"image_path": "train/20200614_130517(0).jpg", "label": [{"points": [[36, 9], [378, 9], [378, 112], [36, 112]], "transcription": "15077waw6", "ignore": false}]}
+{"image_path": "train/20200614_162220.jpg", "label": [{"points": [[62, 22], [83, 22], [83, 36], [62, 36]], "transcription": "ww", "ignore": false}]}
+{"image_path": "train/20200618_111025a.jpg", "label": [{"points": [[38, 67], [1097, 67], [1097, 635], [38, 635]], "transcription": "94389h6", "ignore": false}]}
+{"image_path": "train/20200614_131041.jpg", "label": [{"points": [[21, 9], [162, 9], [162, 52], [21, 52]], "transcription": "56242a26", "ignore": false}]}
+{"image_path": "train/20200614_130544(0).jpg", "label": [{"points": [[17, 26], [160, 26], [160, 103], [17, 103]], "transcription": "23588b15", "ignore": false}]}
+{"image_path": "train/20200618_110302a.jpg", "label": [{"points": [[25, 17], [341, 17], [341, 111], [25, 111]], "transcription": "21034d8", "ignore": false}]}
+{"image_path": "train/20200620_194504a.jpg", "label": [{"points": [[37, 35], [588, 35], [588, 238], [37, 238]], "transcription": "26724waw6", "ignore": false}]}
+{"image_path": "train/20200614_151818.jpg", "label": [{"points": [[35, 28], [427, 28], [427, 120], [35, 120]], "transcription": "45765waw6", "ignore": false}]}
+{"image_path": "train/20200616_123437a.jpg", "label": [{"points": [[49, 29], [778, 29], [778, 239], [49, 239]], "transcription": "26045h6", "ignore": false}]}
+{"image_path": "train/20200622_201818a.jpg", "label": [{"points": [[33, 16], [411, 16], [411, 88], [33, 88]], "transcription": "12157h6", "ignore": false}]}
+{"image_path": "train/20200614_130433(0).jpg", "label": [{"points": [[31, 12], [183, 12], [183, 79], [31, 79]], "transcription": "5785a7", "ignore": false}]}
+{"image_path": "train/20200618_104110a.jpg", "label": [{"points": [[29, 37], [1022, 37], [1022, 308], [29, 308]], "transcription": "6510a58", "ignore": false}]}
+{"image_path": "train/20200617_185111a.jpg", "label": [{"points": [[39, 20], [970, 20], [970, 165], [39, 165]], "transcription": "54671a13", "ignore": false}]}
+{"image_path": "train/20200626_121520b.jpg", "label": [{"points": [[42, 85], [781, 85], [781, 254], [42, 254]], "transcription": "56142b8", "ignore": false}]}
+{"image_path": "train/20200614_130942.jpg", "label": [{"points": [[8, 4], [81, 4], [81, 24], [8, 24]], "transcription": "32040a56", "ignore": false}]}
+{"image_path": "train/20200618_095645a.jpg", "label": [{"points": [[15, 5], [443, 5], [443, 158], [15, 158]], "transcription": "15853waw6", "ignore": false}]}
+{"image_path": "train/20200614_161253.jpg", "label": [{"points": [[35, 15], [255, 15], [255, 105], [35, 105]], "transcription": "77838d6", "ignore": false}]}
+{"image_path": "train/20200618_110526a.jpg", "label": [{"points": [[69, 37], [957, 37], [957, 242], [69, 242]], "transcription": "37374a13", "ignore": false}]}
+{"image_path": "train/20200614_131206.jpg", "label": [{"points": [[13, 18], [316, 18], [316, 134], [13, 134]], "transcription": "30609a6", "ignore": false}]}
+{"image_path": "train/20200618_095024a.jpg", "label": [{"points": [[28, 36], [765, 36], [765, 251], [28, 251]], "transcription": "22421d6", "ignore": false}]}
+{"image_path": "train/20200617_193453___ADD_1a.jpg", "label": [{"points": [[24, 16], [163, 16], [163, 64], [24, 64]], "transcription": "19413h6", "ignore": false}]}
+{"image_path": "train/20200614_162641a.jpg", "label": [{"points": [[31, 24], [185, 24], [185, 152], [31, 152]], "transcription": "a2706190", "ignore": false}]}
+{"image_path": "train/20200618_105149a.jpg", "label": [{"points": [[28, 17], [466, 17], [466, 147], [28, 147]], "transcription": "24411a72", "ignore": false}]}
+{"image_path": "train/20200614_162152.jpg", "label": [{"points": [[37, 14], [50, 14], [50, 22], [37, 22]], "transcription": "ww", "ignore": false}]}
+{"image_path": "train/20200617_193453___ADD_1___ADD_2a.jpg", "label": [{"points": [[24, 9], [97, 9], [97, 29], [24, 29]], "transcription": "40877a11", "ignore": false}]}
+{"image_path": "train/20200626_122302a.jpg", "label": [{"points": [[15, 24], [535, 24], [535, 164], [15, 164]], "transcription": "49523h6", "ignore": false}]}
+{"image_path": "train/20200614_131915.jpg", "label": [{"points": [[62, 53], [544, 53], [544, 181], [62, 181]], "transcription": "46245b8", "ignore": false}]}
+{"image_path": "train/20200626_121557b.jpg", "label": [{"points": [[135, 44], [631, 44], [631, 193], [135, 193]], "transcription": "33290a56", "ignore": false}]}
+{"image_path": "train/20200614_161355.jpg", "label": [{"points": [[4, 12], [166, 12], [166, 39], [4, 39]], "transcription": "26008a2", "ignore": false}]}
+{"image_path": "train/20200614_131215.jpg", "label": [{"points": [[16, 22], [247, 22], [247, 157], [16, 157]], "transcription": "57626b8", "ignore": false}]}
+{"image_path": "train/20200614_162036.jpg", "label": [{"points": [[12, 14], [109, 14], [109, 34], [12, 34]], "transcription": "79240b8", "ignore": false}]}
+{"image_path": "train/20200616_175447a.jpg", "label": [{"points": [[50, 32], [635, 32], [635, 163], [50, 163]], "transcription": "48032b8", "ignore": false}]}
+{"image_path": "train/20200614_162521a.jpg", "label": [{"points": [[6, 8], [99, 8], [99, 30], [6, 30]], "transcription": "71125waw6", "ignore": false}]}
+{"image_path": "train/20200614_131926.jpg", "label": [{"points": [[23, 31], [1254, 31], [1254, 477], [23, 477]], "transcription": "68254h6", "ignore": false}]}
+{"image_path": "train/20200622_201658a.jpg", "label": [{"points": [[10, 0], [221, 0], [221, 44], [10, 44]], "transcription": "43681a40", "ignore": false}]}
+{"image_path": "train/20200617_193517___ADD_1a.jpg", "label": [{"points": [[8, 6], [123, 6], [123, 29], [8, 29]], "transcription": "73190waw6", "ignore": false}]}
+{"image_path": "train/20200622_202130a.jpg", "label": [{"points": [[55, 19], [563, 19], [563, 177], [55, 177]], "transcription": "12157h6", "ignore": false}]}
+{"image_path": "train/20200614_161522.jpg", "label": [{"points": [[21, 16], [209, 16], [209, 90], [21, 90]], "transcription": "1071a72", "ignore": false}]}
+{"image_path": "train/20200618_111927a.jpg", "label": [{"points": [[14, 9], [196, 9], [196, 64], [14, 64]], "transcription": "43183h6", "ignore": false}]}
+{"image_path": "train/20200614_130444.jpg", "label": [{"points": [[13, 12], [218, 12], [218, 86], [13, 86]], "transcription": "23784h6", "ignore": false}]}
+{"image_path": "train/20200614_151846.jpg", "label": [{"points": [[29, 33], [413, 33], [413, 161], [29, 161]], "transcription": "90715b8", "ignore": false}]}
+{"image_path": "train/20200626_121736a.jpg", "label": [{"points": [[22, 5], [420, 5], [420, 110], [22, 110]], "transcription": "56175a7", "ignore": false}]}
+{"image_path": "train/20200614_152027.jpg", "label": [{"points": [[71, 89], [1009, 89], [1009, 424], [71, 424]], "transcription": "67632h6", "ignore": false}]}
+{"image_path": "train/20200614_161537.jpg", "label": [{"points": [[20, 17], [147, 17], [147, 53], [20, 53]], "transcription": "1810d8", "ignore": false}]}
+{"image_path": "train/20200618_111917a.jpg", "label": [{"points": [[7, 9], [147, 9], [147, 65], [7, 65]], "transcription": "183264", "ignore": false}]}
+{"image_path": "train/20200614_130539.jpg", "label": [{"points": [[37, 16], [359, 16], [359, 87], [37, 87]], "transcription": "65936a50", "ignore": false}]}
+{"image_path": "train/20200626_121306b.jpg", "label": [{"points": [[9, 28], [624, 28], [624, 171], [9, 171]], "transcription": "26524a40", "ignore": false}]}
+{"image_path": "train/20200614_161925.jpg", "label": [{"points": [[36, 31], [181, 31], [181, 143], [36, 143]], "transcription": "a5901470", "ignore": false}]}
+{"image_path": "train/20200618_110443a.jpg", "label": [{"points": [[45, 17], [759, 17], [759, 168], [45, 168]], "transcription": "9015d8", "ignore": false}]}
+{"image_path": "train/20200618_095714a.jpg", "label": [{"points": [[13, 26], [483, 26], [483, 272], [13, 272]], "transcription": "99308a72", "ignore": false}]}
+{"image_path": "train/20200614_161102.jpg", "label": [{"points": [[32, 14], [472, 14], [472, 138], [32, 138]], "transcription": "16961a5", "ignore": false}]}
+{"image_path": "train/20200614_151955.jpg", "label": [{"points": [[49, 35], [375, 35], [375, 125], [49, 125]], "transcription": "98272h6", "ignore": false}]}
+{"image_path": "train/20200614_162155.jpg", "label": [{"points": [[119, 22], [159, 22], [159, 54], [119, 54]], "transcription": "ww", "ignore": false}]}
+{"image_path": "train/20200626_121545a.jpg", "label": [{"points": [[33, 14], [553, 14], [553, 151], [33, 151]], "transcription": "23890d8", "ignore": false}]}
+{"image_path": "train/20200614_162508a.jpg", "label": [{"points": [[8, 6], [190, 6], [190, 52], [8, 52]], "transcription": "27025d8", "ignore": false}]}
+{"image_path": "train/20200614_130405.jpg", "label": [{"points": [[20, 10], [108, 10], [108, 32], [20, 32]], "transcription": "3286d8", "ignore": false}]}
+{"image_path": "train/20200615_191120a.jpg", "label": [{"points": [[43, 34], [961, 34], [961, 290], [43, 290]], "transcription": "70733b6", "ignore": false}]}
+{"image_path": "train/20200614_161047.jpg", "label": [{"points": [[42, 60], [716, 60], [716, 317], [42, 317]], "transcription": "34002h6", "ignore": false}]}
+{"image_path": "train/20200617_193213a.jpg", "label": [{"points": [[37, 18], [580, 18], [580, 176], [37, 176]], "transcription": "50767a11", "ignore": false}]}
+{"image_path": "train/20200614_131024.jpg", "label": [{"points": [[12, 13], [204, 13], [204, 64], [12, 64]], "transcription": "227709ch", "ignore": false}]}
+{"image_path": "train/20200614_205448a.jpg", "label": [{"points": [[38, 19], [632, 19], [632, 192], [38, 192]], "transcription": "8278b72", "ignore": false}]}
+{"image_path": "train/20200614_161648.jpg", "label": [{"points": [[7, 3], [72, 3], [72, 22], [7, 22]], "transcription": "682d8", "ignore": false}]}
+{"image_path": "train/20200614_151704.jpg", "label": [{"points": [[90, 60], [742, 60], [742, 341], [90, 341]], "transcription": "26205d8", "ignore": false}]}
+{"image_path": "train/20200617_185427a.jpg", "label": [{"points": [[50, 19], [709, 19], [709, 218], [50, 218]], "transcription": "37145a11", "ignore": false}]}
+{"image_path": "train/20200617_193852a.jpg", "label": [{"points": [[44, 19], [987, 19], [987, 185], [44, 185]], "transcription": "90225d1", "ignore": false}]}
+{"image_path": "train/20200614_130500(0).jpg", "label": [{"points": [[18, 23], [230, 23], [230, 95], [18, 95]], "transcription": "45367a72", "ignore": false}]}
+{"image_path": "train/20200614_161650.jpg", "label": [{"points": [[15, 8], [138, 8], [138, 56], [15, 56]], "transcription": "882d8", "ignore": false}]}
+{"image_path": "train/20200626_121803a.jpg", "label": [{"points": [[5, 55], [123, 55], [123, 144], [5, 144]], "transcription": "0226211", "ignore": false}]}
+{"image_path": "train/20200614_130315.jpg", "label": [{"points": [[9, 12], [139, 12], [139, 35], [9, 35]], "transcription": "599625ww", "ignore": false}]}
+{"image_path": "train/20200617_193624a.jpg", "label": [{"points": [[47, 29], [881, 29], [881, 156], [47, 156]], "transcription": "1850a7", "ignore": false}]}
+{"image_path": "train/20200614_151951___ADD_1.jpg", "label": [{"points": [[30, 51], [132, 51], [132, 101], [30, 101]], "transcription": "25528", "ignore": false}]}
+{"image_path": "train/20200626_121639b.jpg", "label": [{"points": [[57, 61], [418, 61], [418, 150], [57, 150]], "transcription": "35690h6", "ignore": false}]}
+{"image_path": "train/20200614_130537.jpg", "label": [{"points": [[22, 18], [200, 18], [200, 108], [22, 108]], "transcription": "65936a50", "ignore": false}]}
+{"image_path": "train/20200615_191047a.jpg", "label": [{"points": [[18, 5], [448, 5], [448, 124], [18, 124]], "transcription": "25303b8", "ignore": false}]}
+{"image_path": "train/20200626_121544b.jpg", "label": [{"points": [[88, 46], [464, 46], [464, 141], [88, 141]], "transcription": "23890d8", "ignore": false}]}
+{"image_path": "train/20200620_193926a.jpg", "label": [{"points": [[24, 21], [399, 21], [399, 171], [24, 171]], "transcription": "58357d6", "ignore": false}]}
+{"image_path": "train/20200614_161606.jpg", "label": [{"points": [[18, 14], [199, 14], [199, 101], [18, 101]], "transcription": "31067waw6", "ignore": false}]}
+{"image_path": "train/20200618_095932a.jpg", "label": [{"points": [[40, 41], [1259, 41], [1259, 264], [40, 264]], "transcription": "60070b8", "ignore": false}]}
+{"image_path": "train/20200618_095314a.jpg", "label": [{"points": [[22, 36], [970, 36], [970, 313], [22, 313]], "transcription": "53666a1", "ignore": false}]}
+{"image_path": "train/20200614_162505a.jpg", "label": [{"points": [[3, 3], [48, 3], [48, 17], [3, 17]], "transcription": "2d", "ignore": false}]}
+{"image_path": "train/20200617_185101a.jpg", "label": [{"points": [[69, 41], [791, 41], [791, 541], [69, 541]], "transcription": "38295b6", "ignore": false}]}
+{"image_path": "train/20200617_193404a.jpg", "label": [{"points": [[50, 20], [621, 20], [621, 172], [50, 172]], "transcription": "3579a14", "ignore": false}]}
+{"image_path": "train/20200620_194127a.jpg", "label": [{"points": [[14, 15], [280, 15], [280, 95], [14, 95]], "transcription": "83359h6", "ignore": false}]}
+{"image_path": "train/20200614_131108(0).jpg", "label": [{"points": [[33, 12], [250, 12], [250, 66], [33, 66]], "transcription": "73393b8", "ignore": false}]}
+{"image_path": "train/20200614_130305.jpg", "label": [{"points": [[16, 21], [94, 21], [94, 50], [16, 50]], "transcription": "552679ww", "ignore": false}]}
+{"image_path": "train/20200623_172941a.jpg", "label": [{"points": [[50, 17], [573, 17], [573, 131], [50, 131]], "transcription": "74212a7", "ignore": false}]}
+{"image_path": "train/20200626_121830a.jpg", "label": [{"points": [[85, 38], [875, 38], [875, 206], [85, 206]], "transcription": "23451waw6", "ignore": false}]}
+{"image_path": "train/20200614_161826.jpg", "label": [{"points": [[6, 11], [64, 11], [64, 25], [6, 25]], "transcription": "59017a40", "ignore": false}]}
+{"image_path": "train/20200622_202714a.jpg", "label": [{"points": [[27, 12], [611, 12], [611, 144], [27, 144]], "transcription": "39305b8", "ignore": false}]}
+{"image_path": "train/20200618_105836a.jpg", "label": [{"points": [[37, 33], [600, 33], [600, 218], [37, 218]], "transcription": "28768waw6", "ignore": false}]}
+{"image_path": "train/20200623_172905a.jpg", "label": [{"points": [[12, 9], [293, 9], [293, 79], [12, 79]], "transcription": "40911waw6", "ignore": false}]}
+{"image_path": "train/20200618_110038a.jpg", "label": [{"points": [[34, 22], [303, 22], [303, 133], [34, 133]], "transcription": "610741ww", "ignore": false}]}
+{"image_path": "train/20200626_121446b.jpg", "label": [{"points": [[105, 62], [627, 62], [627, 242], [105, 242]], "transcription": "56256waw6", "ignore": false}]}
+{"image_path": "train/20200615_191100a.jpg", "label": [{"points": [[57, 34], [714, 34], [714, 234], [57, 234]], "transcription": "52570waw6", "ignore": false}]}
+{"image_path": "train/20200614_131928.jpg", "label": [{"points": [[101, 51], [1558, 51], [1558, 690], [101, 690]], "transcription": "68254h6", "ignore": false}]}
+{"image_path": "train/20200614_131122.jpg", "label": [{"points": [[12, 9], [163, 9], [163, 44], [12, 44]], "transcription": "33820a14", "ignore": false}]}
+{"image_path": "train/20200618_094711a.jpg", "label": [{"points": [[28, 24], [544, 24], [544, 221], [28, 221]], "transcription": "76138a72", "ignore": false}]}
+{"image_path": "train/20200614_130621.jpg", "label": [{"points": [[8, 6], [105, 6], [105, 26], [8, 26]], "transcription": "23784h6", "ignore": false}]}
+{"image_path": "train/20200617_194144a.jpg", "label": [{"points": [[76, 14], [742, 14], [742, 174], [76, 174]], "transcription": "37761a11", "ignore": false}]}
+{"image_path": "train/20200614_131913.jpg", "label": [{"points": [[21, 21], [242, 21], [242, 75], [21, 75]], "transcription": "46245b8", "ignore": false}]}
+{"image_path": "train/20200614_161311.jpg", "label": [{"points": [[33, 20], [349, 20], [349, 85], [33, 85]], "transcription": "39669a59", "ignore": false}]}
+{"image_path": "train/20200618_105312a.jpg", "label": [{"points": [[38, 43], [1035, 43], [1035, 499], [38, 499]], "transcription": "34514b6", "ignore": false}]}
+{"image_path": "train/20200614_161713(0).jpg", "label": [{"points": [[15, 10], [144, 10], [144, 36], [15, 36]], "transcription": "79240b8", "ignore": false}]}
+{"image_path": "train/20200617_193826a.jpg", "label": [{"points": [[69, 46], [820, 46], [820, 202], [69, 202]], "transcription": "40970a48", "ignore": false}]}
+{"image_path": "train/20200617_193945a.jpg", "label": [{"points": [[39, 31], [798, 31], [798, 209], [39, 209]], "transcription": "50616a11", "ignore": false}]}
+{"image_path": "train/20200614_131029.jpg", "label": [{"points": [[15, 9], [134, 9], [134, 48], [15, 48]], "transcription": "75112b8", "ignore": false}]}
+{"image_path": "train/20200617_193529a.jpg", "label": [{"points": [[7, 63], [693, 63], [693, 289], [7, 289]], "transcription": "534504ww", "ignore": false}]}
+{"image_path": "train/20200614_131937.jpg", "label": [{"points": [[13, 24], [333, 24], [333, 112], [13, 112]], "transcription": "609008ww", "ignore": false}]}
+{"image_path": "train/20200620_194538a.jpg", "label": [{"points": [[43, 18], [1012, 18], [1012, 157], [43, 157]], "transcription": "10474a7", "ignore": false}]}
+{"image_path": "train/20200617_185011a.jpg", "label": [{"points": [[29, 27], [644, 27], [644, 219], [29, 219]], "transcription": "78692d6", "ignore": false}]}
+{"image_path": "train/20200614_151905(0).jpg", "label": [{"points": [[83, 54], [1135, 54], [1135, 337], [83, 337]], "transcription": "83013h1", "ignore": false}]}
+{"image_path": "train/20200615_191119a.jpg", "label": [{"points": [[7, 29], [489, 29], [489, 166], [7, 166]], "transcription": "70733b6", "ignore": false}]}
+{"image_path": "train/20200614_162256.jpg", "label": [{"points": [[44, 27], [283, 27], [283, 142], [44, 142]], "transcription": "36446a14", "ignore": false}]}
+{"image_path": "train/20200614_162202.jpg", "label": [{"points": [[13, 22], [389, 22], [389, 149], [13, 149]], "transcription": "5272d1", "ignore": false}]}
+{"image_path": "train/20200614_151732.jpg", "label": [{"points": [[56, 36], [390, 36], [390, 104], [56, 104]], "transcription": "40494a50", "ignore": false}]}
+{"image_path": "train/20200614_130611.jpg", "label": [{"points": [[23, 29], [352, 29], [352, 192], [23, 192]], "transcription": "80976b8", "ignore": false}]}
+{"image_path": "train/20200614_131144.jpg", "label": [{"points": [[21, 9], [155, 9], [155, 49], [21, 49]], "transcription": "31632d6", "ignore": false}]}
+{"image_path": "train/20200614_190915a.jpg", "label": [{"points": [[53, 20], [605, 20], [605, 132], [53, 132]], "transcription": "99201b8", "ignore": false}]}
+{"image_path": "train/20200614_161526.jpg", "label": [{"points": [[25, 6], [141, 6], [141, 49], [25, 49]], "transcription": "77674b8", "ignore": false}]}
+{"image_path": "train/20200614_205246a.jpg", "label": [{"points": [[57, 34], [938, 34], [938, 293], [57, 293]], "transcription": "27815waw6", "ignore": false}]}
+{"image_path": "train/20200626_122007a.jpg", "label": [{"points": [[47, 28], [491, 28], [491, 133], [47, 133]], "transcription": "23008h1", "ignore": false}]}
+{"image_path": "train/20200614_130452.jpg", "label": [{"points": [[9, 1], [102, 1], [102, 23], [9, 23]], "transcription": "80976b8", "ignore": false}]}
+{"image_path": "train/20200614_161843(0).jpg", "label": [{"points": [[6, 8], [54, 8], [54, 27], [6, 27]], "transcription": "123waw8", "ignore": false}]}
+{"image_path": "train/20200614_130246.jpg", "label": [{"points": [[34, 30], [319, 30], [319, 120], [34, 120]], "transcription": "15741b15", "ignore": false}]}
+{"image_path": "train/20200626_121743a.jpg", "label": [{"points": [[10, 15], [419, 15], [419, 94], [10, 94]], "transcription": "65437h6", "ignore": false}]}
+{"image_path": "train/20200618_095611a.jpg", "label": [{"points": [[19, 37], [984, 37], [984, 281], [19, 281]], "transcription": "61274a72", "ignore": false}]}
+{"image_path": "train/20200614_205300a.jpg", "label": [{"points": [[91, 44], [773, 44], [773, 285], [91, 285]], "transcription": "6264h6", "ignore": false}]}
+{"image_path": "train/20200614_161518.jpg", "label": [{"points": [[12, 7], [142, 7], [142, 63], [12, 63]], "transcription": "70426b8", "ignore": false}]}
+{"image_path": "train/20200617_193551a.jpg", "label": [{"points": [[53, 25], [1382, 25], [1382, 421], [53, 421]], "transcription": "24808a44", "ignore": false}]}
+{"image_path": "train/20200626_121743b.jpg", "label": [{"points": [[44, 74], [453, 74], [453, 161], [44, 161]], "transcription": "65437h6", "ignore": false}]}
+{"image_path": "train/20200614_162707a.jpg", "label": [{"points": [[86, 55], [1244, 55], [1244, 473], [86, 473]], "transcription": "95044d1", "ignore": false}]}
+{"image_path": "train/20200614_161747.jpg", "label": [{"points": [[49, 28], [320, 28], [320, 171], [49, 171]], "transcription": "85705b6", "ignore": false}]}
