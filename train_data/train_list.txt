@@ -582,3 +582,9 @@ train/2024-04-01_mjnj.png	-ط-1
 train/22.png	76-ط-1
 train/dmer.jpg	9378-ط-1
 train/Screenshot 2025-03-27 150153.png	66666-ط-6
+train/4.png	2-ط-6
+train/5.png	10000-ط-6
+train/6.png	22222-ط-1
+train/7.png	8582-ط-1
+train/ta2-1.png	22222-ط-6
+train/ta2-2.png	11-ط-6
